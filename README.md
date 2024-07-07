@@ -4,7 +4,7 @@ Welcome to my tennis match analysis project!
 
 ## Lets see who had the fastest serve in that game?
 
-Here is an example image:
+Here is a sneak peak of what I am working on:
 
 ![Example Image](fastest_serve.png)
 
