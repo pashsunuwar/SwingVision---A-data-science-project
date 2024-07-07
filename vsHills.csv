@@ -1,0 +1,526 @@
+﻿Player,Shot,Type,Stroke,Spin,Speed (MPH),Point,Game,Set,Bounce Depth,Bounce Zone,Bounce Side,Bounce (x),Bounce (y),Hit Depth,Hit Zone,Hit Side,Hit (x),Hit (y),Hit (z),Direction,Result,Favorited,Start Time,Video Time
+Pash S,0,none,Feed,Flat,19.052607,1,1,1,short,deuce,far,-0.685518,15.457281,deep,deuce,near,2.552158,2.042202,1.212122,---,In,false,18:41:37,20.959999
+Opponent,1,first_serve,Serve,Slice,59.79858,1,1,1,short,deuce,near,2.672877,8.572415,deep,deuce,far,-0.955677,23.163151,2.550846,out wide,In,false,18:41:54,37.369999
+Pash S,2,first_return,Forehand,Flat,35.366428,1,1,1,deep,deuce,far,-1.80259,21.244755,deep,deuce_alley,near,5.276788,0.789605,0.92636,down the line,In,false,18:41:55,38.740002
+Opponent,3,serve_plus_one,Forehand,Topspin,45.510433,1,1,1,short,deuce,near,0.073303,6.863545,out,deuce,far,-2.397332,25.882984,1.169574,cross court,In,false,18:41:57,41.040001
+Pash S,4,return_plus_one,Forehand,Topspin,44.407497,1,1,1,deep,deuce,far,-1.422143,18.389908,deep,deuce,near,0.367666,-0.378927,1.036998,cross court,In,false,18:41:59,42.580002
+Opponent,5,in_play,Forehand,Topspin,53.217064,1,1,1,deep,deuce,near,2.286663,1.431144,out,deuce,far,-2.122126,25.39986,0.909524,cross court,In,false,18:42:00,44.16
+Pash S,6,in_play,Forehand,Topspin,44.265747,1,1,1,deep,ad,far,0.400603,19.781519,out,deuce,near,2.590897,-0.578182,0.825708,down the line,In,false,18:42:02,45.41
+Opponent,7,in_play,Forehand,Topspin,65.717102,1,1,1,deep,ad,near,-3.522485,3.806973,out,ad,far,0.624686,25.227613,1.338373,inside out,In,false,18:42:03,47
+Pash S,8,in_play,Backhand,Slice,37.185963,1,1,1,out,ad_alley,near,-5.184077,-1.652841,deep,ad_alley,near,-4.74103,0.052233,0.601791,cross court,Net,false,18:42:05,48.630001
+Pash S,9,none,Feed,Flat,20.346201,1,1,1,short,deuce,far,-0.966178,14.180804,short,deuce,near,1.800296,6.054541,1.058685,---,In,false,18:42:09,52.740002
+Opponent,1,first_serve,Serve,Slice,59.110149,2,1,1,short,ad,near,-2.936223,5.747269,deep,ad,far,1.692769,23.494743,2.335179,out wide,In,false,18:42:19,62.259998
+Pash S,2,first_return,Forehand,Topspin,39.646118,2,1,1,deep,deuce,far,-1.252089,18.394018,out,ad,near,-3.82983,-1.826143,1.120257,inside in,In,false,18:42:20,63.549999
+Opponent,3,serve_plus_one,Forehand,Topspin,36.531799,2,1,1,short,ad,near,-0.503142,5.660437,deep,deuce,far,-0.86172,23.169193,1.132002,down the line,In,false,18:42:22,65.330002
+Pash S,4,return_plus_one,Forehand,Topspin,50.237968,2,1,1,short,deuce,far,-2.119286,17.969294,deep,ad,near,-0.624219,-0.352351,1.10474,inside in,In,false,18:42:23,67.139999
+Opponent,5,in_play,Forehand,Flat,71.280502,2,1,1,deep,deuce,near,0.549388,4.990166,deep,deuce,far,-1.684281,19.570402,1.712055,cross court,In,false,18:42:25,69.07
+Pash S,6,in_play,Forehand,Topspin,45.828953,2,1,1,short,ad,far,0.026934,17.286127,out,deuce,near,0.828985,-0.891569,0.78763,down the line,In,false,18:42:26,69.940002
+Opponent,7,in_play,Backhand,Flat,31.242647,2,1,1,short,deuce,near,1.197556,6.320909,out,ad,far,0.267536,25.369169,0.557001,down the line,In,false,18:42:28,71.540001
+Pash S,8,in_play,Forehand,Topspin,50.448673,2,1,1,deep,deuce,far,-2.263991,18.640345,deep,deuce,near,2.224704,3.648942,1.049942,cross court,In,false,18:42:30,74.07
+Opponent,9,in_play,Forehand,Topspin,37.607292,2,1,1,deep,ad,near,-3.578867,2.606359,deep,deuce,far,-3.171765,23.1012,0.932097,down the line,In,false,18:42:32,75.260002
+Opponent,1,first_serve,Serve,Slice,66.582489,3,1,1,short,deuce,near,2.004702,7.161364,short,deuce,far,-0.970039,23.616947,2.314594,down the T,In,false,18:42:47,91.230003
+Pash S,2,first_return,Forehand,Topspin,54.154472,3,1,1,deep,ad,far,0.327907,21.102705,out,deuce,near,3.207769,-0.853267,1.095853,down the line,In,false,18:42:49,92.360001
+Opponent,3,serve_plus_one,Backhand,Topspin,33.269394,3,1,1,deep,deuce,near,0.926929,3.41672,deep,ad,far,0.399703,23.590677,1.308872,down the line,In,false,18:42:50,93.580002
+Pash S,4,return_plus_one,Forehand,Topspin,48.672958,3,1,1,deep,deuce,far,-2.301263,23.570585,deep,deuce,near,0.561625,-0.398347,1.539292,cross court,In,false,18:42:52,95.900002
+Opponent,1,first_serve,Serve,Flat,55.155148,4,1,1,short,ad,near,-2.144403,7.739613,deep,ad,far,1.069158,23.332659,1.993013,out wide,In,false,18:43:06,110.190002
+Pash S,1,none,Forehand,Topspin,40.4562,4,1,1,deep,deuce_alley,far,-5.052514,22.584986,out,ad,near,-3.035527,-1.103148,0.882779,inside in,Out,false,18:43:08,111.5
+Opponent,1,first_serve,Serve,Flat,52.398354,4,1,1,short,deuce,far,-0.812191,17.635605,deep,ad,far,1.170906,24.086445,2.59913,out wide,Net,false,18:43:22,125.480003
+Opponent,1,first_serve,Serve,Slice,47.544426,4,1,1,short,deuce,near,0.231391,9.486006,deep,ad,far,1.380251,24.19322,2.530234,down the T,Out,false,18:43:27,130.610001
+Pash S,4,none,Forehand,Flat,34.878098,4,1,1,short,ad,far,1.104786,17.56848,deep,ad,near,-2.13396,0.445999,0.754887,inside out,In,false,18:43:29,132.699997
+Opponent,5,none,Backhand,Flat,33.7822,4,1,1,short,ad,far,1.027019,17.140518,deep,ad,far,1.858153,21.712717,0.621409,cross court,Net,false,18:43:32,135.539993
+Opponent,1,first_serve,Serve,Slice,44.714428,4,1,1,short,ad,near,-1.626464,6.327374,deep,ad,far,1.273478,23.207035,2.621359,down the T,In,false,18:43:37,140.610001
+Pash S,2,first_return,Forehand,Topspin,46.129009,4,1,1,deep,deuce_alley,far,-4.12794,18.893789,deep,ad,near,-1.86352,0.276962,1.27813,inside in,Out,false,18:43:38,142.080002
+Pash S,1,first_serve,Serve,Flat,52.010742,5,2,1,deep,ad,near,-1.922406,3.495845,deep,deuce,far,-1.011119,23.425589,2.436651,down the T,Out,false,18:44:36,200.029999
+Pash S,1,none,Backhand,Topspin,26.873175,5,2,1,short,ad,far,0.075504,17.323122,deep,ad,far,0.552159,23.559277,0.974326,cross court,Net,false,18:44:42,205.389999
+Pash S,1,first_serve,Serve,Slice,67.685745,5,2,1,deep,deuce,near,2.165982,5.4517,deep,deuce,far,-2.457005,23.894173,2.557396,down the T,Out,false,18:45:07,231
+Opponent,3,none,Forehand,Slice,26.421427,5,2,1,short,deuce,near,3.097468,8.274133,deep,deuce,near,3.805188,-0.432083,1.23412,cross court,Net,false,18:45:08,232
+Pash S,1,first_serve,Serve,Slice,53.404926,5,2,1,short,deuce,near,2.195663,6.484884,short,deuce,far,-0.481371,23.616947,2.446289,down the T,In,false,18:45:21,244.479996
+Opponent,2,first_return,Forehand,Topspin,36.902775,5,2,1,short,deuce,far,-0.276632,16.460068,deep,deuce,near,2.195033,0.259552,1.320348,cross court,In,false,18:45:22,245.880005
+Pash S,3,serve_plus_one,Forehand,Topspin,58.238781,5,2,1,short,deuce,far,-1.60062,16.945641,deep,deuce,far,-1.360991,23.925928,1.036788,cross court,Net,false,18:45:24,247.660004
+Pash S,1,first_serve,Serve,Flat,69.276459,6,2,1,short,ad,near,-2.456798,6.351611,deep,ad,far,1.105086,23.427286,2.605332,out wide,In,false,18:45:45,269.029999
+Opponent,2,first_return,Backhand,Topspin,33.941586,6,2,1,short,ad,far,0.092103,14.137691,out,ad,near,-4.006211,-1.233351,1.144456,cross court,In,false,18:45:46,270.049988
+Pash S,3,serve_plus_one,Forehand,Flat,24.484228,6,2,1,short,ad,far,3.541546,17.019295,deep,ad,far,1.299412,21.456251,0.521439,inside out,Net,false,18:45:48,271.950012
+Pash S,1,first_serve,Serve,Slice,68.832237,7,2,1,deep,deuce,near,3.638131,4.1494,deep,deuce,far,-1.84398,23.81098,2.662175,out wide,Out,false,18:46:09,292.690002
+Opponent,1,none,Forehand,Topspin,44.915051,7,2,1,deep,ad,far,0.624916,20.015854,deep,deuce_alley,near,4.227522,-0.118869,0.664241,down the line,In,false,18:46:10,293.670013
+Pash S,1,first_serve,Serve,Slice,42.88007,7,2,1,short,deuce,near,0.904574,8.619977,deep,deuce,far,-1.389669,23.61986,2.58098,down the T,In,false,18:46:18,301.429993
+Opponent,2,first_return,Backhand,Topspin,35.927361,7,2,1,short,deuce,far,-0.377668,17.75396,deep,deuce,near,1.771322,0.435197,0.735114,inside out,In,false,18:46:19,303.100006
+Pash S,3,serve_plus_one,Forehand,Topspin,55.003494,7,2,1,short,ad,near,-0.319518,5.606229,deep,deuce,far,-1.081386,24.599104,0.930704,down the line,In,false,18:46:21,304.890015
+Opponent,4,return_plus_one,Backhand,Flat,41.870525,7,2,1,deep,ad,far,2.223768,20.937693,deep,ad,near,-1.290311,-0.487212,0.389616,cross court,In,false,18:46:22,306.23999
+Pash S,5,in_play,Backhand,Topspin,40.135372,7,2,1,deep,ad,near,-1.45608,5.38003,deep,ad,far,2.137303,23.969933,1.184451,cross court,In,false,18:46:24,308.070007
+Opponent,6,in_play,Backhand,Topspin,47.560196,7,2,1,short,deuce,near,0.7186,11.186637,deep,ad,near,-1.372435,1.641303,1.023275,down the line,Net,false,18:46:26,309.869995
+Opponent,0,none,Feed,Topspin,18.186579,8,2,1,short,ad,far,1.482398,17.694141,deep,deuce,near,1.096981,0.421262,0.697205,---,In,false,18:46:32,316.049988
+Pash S,1,first_serve,Serve,Flat,57.383556,8,2,1,short,deuce,far,-1.845025,12.379175,deep,ad,far,1.313918,24.103247,2.625538,out wide,Net,false,18:46:44,328.01001
+Pash S,1,first_serve,Serve,Slice,57.703297,8,2,1,short,ad,near,-2.325087,6.089846,deep,ad,far,0.968517,22.810301,2.587886,out wide,In,false,18:46:50,333.899994
+Opponent,2,first_return,Backhand,Topspin,30.30929,8,2,1,short,ad,near,-0.060834,11.21918,out,ad_alley,near,-4.1208,-1.691142,0.750857,down the line,Net,false,18:46:51,335.220001
+Opponent,1,first_serve,Serve,Slice,83.514648,9,2,1,deep,deuce,near,2.171055,4.833421,deep,deuce,far,-1.261873,24.280943,2.696813,down the T,Out,false,18:47:33,376.809998
+Pash S,1,none,Forehand,Slice,36.740845,9,2,1,short,deuce,far,-2.681515,17.710094,deep,deuce,near,3.44957,0.519669,1.060353,cross court,In,false,18:47:34,377.76001
+Opponent,1,first_serve,Serve,Flat,57.086884,9,2,1,short,deuce,near,1.924603,8.576902,deep,deuce,far,-1.648558,24.658972,2.658534,down the T,In,false,18:47:42,385.869995
+Pash S,2,first_return,Forehand,Topspin,46.451004,9,2,1,deep,ad,far,0.30396,23.086416,out,deuce,near,3.877177,-0.729298,1.246215,down the line,In,false,18:47:43,387.220001
+Opponent,3,serve_plus_one,Backhand,Topspin,35.361534,9,2,1,short,deuce,near,1.243431,5.72096,deep,ad,far,0.692399,24.620737,0.926142,down the line,In,false,18:47:45,388.589996
+Pash S,4,return_plus_one,Forehand,Topspin,53.617237,9,2,1,deep,deuce,far,-2.935343,19.960117,deep,deuce,near,0.974632,0.999606,1.205261,cross court,In,false,18:47:47,390.519989
+Opponent,6,none,Feed,Topspin,22.516716,9,2,1,out,ad,far,2.063022,24.191984,deep,deuce,far,-2.784799,23.485952,2.194678,---,Net,false,18:47:55,398.429993
+Opponent,1,first_serve,Serve,Flat,79.637512,10,2,1,short,ad_alley,near,-4.156793,5.747269,deep,ad,far,1.233795,23.2563,2.158602,out wide,Out,false,18:48:04,407.790009
+Pash S,1,none,Backhand,Topspin,46.591358,10,2,1,short,deuce,far,-0.431069,14.985806,deep,ad,near,-3.821484,2.849147,1.998106,down the line,In,false,18:48:05,408.98999
+Pash S,2,none,Feed,Flat,19.918634,10,2,1,deep,deuce,far,-1.08856,18.327789,short,ad,near,-2.357584,8.824447,2.410074,---,In,false,18:48:17,421.200012
+Opponent,1,first_serve,Serve,Slice,52.051289,10,2,1,short,ad,near,-1.02278,6.359885,deep,ad,far,1.409256,23.467806,2.572361,down the T,In,false,18:48:30,433.809998
+Pash S,2,first_return,Forehand,Topspin,42.886738,10,2,1,deep,ad,far,0.593908,18.750528,out,ad,near,-1.71129,-1.488162,1.007711,inside out,In,false,18:48:31,435.100006
+Opponent,3,serve_plus_one,Forehand,Topspin,47.855915,10,2,1,short,ad,near,-1.141658,6.724156,deep,ad,far,0.840822,23.130278,1.293584,inside out,In,false,18:48:33,436.820007
+Pash S,4,return_plus_one,Backhand,Topspin,45.114162,10,2,1,deep,deuce,far,-2.898249,20.228968,out,ad,near,-2.187347,-0.609142,0.606982,down the line,In,false,18:48:34,438.170013
+Opponent,5,in_play,Forehand,Topspin,53.499065,10,2,1,deep,deuce,near,1.359197,4.508245,out,deuce,far,-2.423019,25.341236,1.154242,cross court,In,false,18:48:36,439.920013
+Pash S,6,in_play,Forehand,Topspin,43.116402,10,2,1,short,ad,near,-1.631614,11.663752,deep,deuce,near,2.95531,0.050159,1.046665,down the line,Net,false,18:48:38,441.339996
+Pash S,9,none,Feed,Topspin,12.296117,10,2,1,short,ad,near,-1.17653,5.916289,short,deuce,near,1.996523,9.534268,2.961389,---,Net,false,18:48:41,445.070007
+Pash S,10,none,Feed,Flat,19.052607,10,2,1,deep,ad,far,3.318104,23.074722,short,deuce,near,1.355187,5.158672,3.040686,---,In,false,18:48:44,448.230011
+Opponent,1,first_serve,Serve,Slice,64.502342,11,2,1,short,deuce,near,1.774432,7.191031,deep,deuce,far,-1.260704,23.085112,2.573107,down the T,In,false,18:48:58,461.660004
+Pash S,1,none,Forehand,Slice,38.995075,11,2,1,deep,deuce,far,-2.0678,21.221561,deep,deuce_alley,near,4.282278,0.181613,0.981046,down the line,In,false,18:48:59,462.73999
+Opponent,1,first_serve,Serve,Slice,64.230759,11,2,1,short,deuce,near,0.634106,8.076014,deep,deuce,far,-0.914847,23.684401,2.450932,down the T,In,false,18:49:06,470.220001
+Pash S,2,first_return,Backhand,Slice,32.649639,11,2,1,short,deuce,near,0.408603,11.111552,deep,deuce,near,0.54615,1.158836,0.905322,inside out,Net,false,18:49:07,471.170013
+Pash S,3,serve_plus_one,Backhand,Topspin,34.424908,11,2,1,deep,deuce,far,-1.858729,18.804667,deep,ad,near,-2.6511,1.226582,2.011556,down the line,In,false,18:49:11,475.049988
+Opponent,1,first_serve,Serve,Slice,44.073833,12,2,1,deep,ad,near,-1.910083,5.485182,deep,ad,far,2.138089,22.457113,2.258134,down the T,Out,false,18:49:38,501.399994
+Pash S,2,first_return,Forehand,Flat,35.008381,12,2,1,deep,ad,far,0.989472,22.387314,out,ad,near,-3.12405,-1.593654,1.233202,inside out,In,false,18:49:39,502.76001
+Opponent,3,serve_plus_one,Forehand,Flat,35.635929,12,2,1,deep,deuce,near,3.377803,4.302551,deep,ad,far,0.98422,24.846121,0.678212,inside in,In,false,18:49:42,505.75
+Pash S,4,return_plus_one,Forehand,Topspin,50.999435,12,2,1,short,deuce,far,-1.310236,15.541587,out,deuce,near,3.996377,-2.012995,1.097404,cross court,In,false,18:49:44,508.070007
+Opponent,5,in_play,Forehand,Slice,28.338625,12,2,1,short,ad,far,0.615401,18.018969,deep,deuce,far,-3.126088,24.383154,0.706497,down the line,Net,false,18:49:46,509.709991
+Pash S,5,none,Feed,Flat,16.906532,12,2,1,short,ad,far,2.580252,13.688576,short,deuce,near,2.043685,9.617599,4.992621,---,In,false,18:49:58,521.299988
+Pash S,1,first_serve,Serve,Slice,65.495216,13,2,1,deep,deuce,near,2.89009,4.34537,deep,deuce,far,-1.610701,24.226652,2.716892,out wide,Out,false,18:50:14,537.700012
+Opponent,1,none,Forehand,Slice,32.865162,13,2,1,deep,deuce,near,2.196479,5.27665,out,deuce,near,3.689152,-0.85917,0.876227,cross court,Net,false,18:50:15,538.820007
+Pash S,1,first_serve,Serve,Slice,64.991005,13,2,1,short,deuce,near,1.691225,6.569424,deep,deuce,far,-1.856979,24.460617,2.780606,down the T,In,false,18:50:20,544.109985
+Opponent,2,first_return,Forehand,Topspin,45.952137,13,2,1,deep,deuce,far,-0.896628,20.543449,deep,deuce,near,2.873996,0.17258,0.865877,cross court,In,false,18:50:22,545.469971
+Pash S,3,serve_plus_one,Forehand,Topspin,47.44228,13,2,1,short,ad,near,-3.248105,5.631671,out,deuce,far,-1.335615,25.534836,1.172773,down the line,In,false,18:50:23,547.01001
+Opponent,4,return_plus_one,Backhand,Flat,35.070549,13,2,1,deep,ad,far,1.356665,21.36665,out,ad_alley,near,-4.191931,-0.788922,0.49263,down the line,In,false,18:50:25,548.609985
+Pash S,5,in_play,Forehand,Topspin,47.746464,13,2,1,short,center_line,near,0.01531,6.209851,deep,ad,far,2.128304,23.237219,1.531156,inside in,In,false,18:50:27,551.059998
+Opponent,6,in_play,Forehand,Topspin,51.378586,13,2,1,deep,deuce,far,-2.120677,18.724495,deep,ad,near,-0.813321,-0.357118,0.749068,inside in,In,false,18:50:29,552.51001
+Pash S,7,in_play,Forehand,Slice,38.566895,13,2,1,deep,deuce,near,0.944252,2.654133,deep,deuce,far,-1.064657,24.945211,0.787067,cross court,In,false,18:50:30,553.929993
+Opponent,8,in_play,Forehand,Topspin,46.117313,13,2,1,deep,ad,far,1.75534,19.091831,out,deuce,near,1.164408,-1.388788,0.892859,down the line,In,false,18:50:32,555.820007
+Pash S,9,in_play,Backhand,Topspin,39.162102,13,2,1,deep,ad_alley,near,-5.086388,3.030655,deep,ad,far,1.408428,24.914188,0.857768,down the line,Out,false,18:50:34,557.52002
+Opponent,10,in_play,Backhand,Slice,28.902735,13,2,1,out,ad_alley,near,-4.1148,-1.521176,deep,ad_alley,near,-5.227788,0.664731,0.822349,cross court,Net,false,18:50:36,560.039978
+Opponent,12,none,Feed,Flat,20.784662,13,2,1,deep,deuce,far,-0.715787,19.702084,short,ad,near,-1.539741,7.140357,3.641863,---,In,false,18:50:42,566.039978
+Opponent,1,first_serve,Serve,Flat,66.026726,14,2,1,short,ad,near,-2.591649,6.653894,deep,ad,far,0.782593,23.355911,2.939651,out wide,In,false,18:50:52,575.75
+Pash S,2,first_return,Backhand,Slice,35.335732,14,2,1,short,deuce,far,-1.458367,15.510104,out,ad,near,-3.908923,-0.719058,1.066207,down the line,In,false,18:50:53,576.849976
+Opponent,3,serve_plus_one,Forehand,Flat,32.222034,14,2,1,deep,deuce,near,0.975385,3.193111,deep,deuce,far,-0.83015,20.839399,0.60482,cross court,In,false,18:50:55,578.669983
+Pash S,4,return_plus_one,Forehand,Topspin,41.594349,14,2,1,short,ad,far,1.749471,14.261662,deep,deuce,near,0.937877,-0.372457,1.046691,down the line,In,false,18:50:57,580.710022
+Opponent,5,in_play,BH Volley,Flat,17.320551,14,2,1,short,ad,near,-0.075885,5.622455,short,ad,far,1.749471,15.470449,1.806437,cross court,In,false,18:50:58,581.659973
+Pash S,6,in_play,Backhand,Topspin,39.979034,14,2,1,short,deuce,far,-1.552014,15.564105,deep,ad,near,-1.405196,-0.461583,0.653975,down the line,In,false,18:50:59,582.780029
+Opponent,7,in_play,FH Volley,Flat,17.320551,14,2,1,out,deuce,near,1.836621,-0.984656,short,deuce,far,-1.552014,16.772894,0.665295,cross court,Out,false,18:51:00,583.76001
+Opponent,1,first_serve,Serve,Slice,58.860233,15,3,1,short,deuce,far,-2.777298,14.627295,deep,deuce,near,0.530196,0.050186,2.65157,out wide,In,false,18:51:27,610.400024
+Pash S,1,none,Feed,Topspin,17.320551,15,3,1,short,ad,near,-1.016571,5.533247,out,deuce,far,-2.531272,25.617754,0.750192,---,In,false,18:51:30,614.090027
+Opponent,1,first_serve,Serve,Slice,54.786133,15,3,1,short,ad,near,-1.89946,11.78848,deep,deuce,near,0.790625,-0.08635,2.479454,out wide,Net,false,18:51:38,621.280029
+Opponent,1,first_serve,Serve,Flat,55.128197,15,3,1,short,deuce,far,-2.49798,18.160393,out,ad,near,0.343309,-0.86168,2.58856,out wide,Out,false,18:51:44,627.450012
+Pash S,2,first_return,Forehand,Topspin,50.070602,15,3,1,deep,deuce,near,1.180637,4.219818,deep,deuce,far,-3.230535,23.854158,1.097924,cross court,In,false,18:51:45,628.890015
+Opponent,3,serve_plus_one,Forehand,Topspin,46.802139,15,3,1,short,ad,far,2.359812,14.8675,out,deuce,near,1.599905,-0.884488,1.110563,down the line,In,false,18:51:47,630.419983
+Pash S,4,return_plus_one,Backhand,Slice,34.923103,15,3,1,out,deuce,near,2.185334,-1.17303,deep,ad,far,2.495055,22.885168,0.960225,down the line,Out,false,18:51:48,631.630005
+Opponent,1,first_serve,Serve,Flat,51.338093,16,3,1,short,ad,far,1.393089,16.166277,out,ad,near,-2.053569,-0.620433,2.39941,down the T,In,false,18:52:04,647.909973
+Pash S,2,first_return,Forehand,Topspin,51.97961,16,3,1,deep,ad,near,-2.696139,0.014843,out,ad,far,2.27216,25.043697,0.720271,inside out,In,false,18:52:06,649.380005
+Opponent,1,first_serve,Serve,Flat,49.855988,17,3,1,short,deuce,far,-1.215252,13.763347,out,deuce,near,0.440357,-0.59959,2.607232,down the T,In,false,18:52:23,666.390015
+Pash S,2,first_return,Backhand,Topspin,34.983292,17,3,1,deep,ad,near,-0.834995,3.752547,deep,deuce,far,-1.378053,24.301069,0.681163,inside in,In,false,18:52:24,667.940002
+Opponent,3,serve_plus_one,Backhand,Topspin,48.503227,17,3,1,deep,ad,far,4.084599,20.606972,deep,ad,near,-0.546887,-0.276336,1.067236,cross court,In,false,18:52:26,670.130005
+Pash S,4,return_plus_one,Backhand,Topspin,32.431408,17,3,1,short,deuce_alley,far,-4.225153,17.279819,deep,ad,far,3.568711,23.228941,0.748095,down the line,Net,false,18:52:28,671.460022
+Pash S,4,none,Feed,Topspin,24.248772,17,3,1,short,ad,near,-3.629052,5.756002,deep,deuce,far,-1.758445,24.337223,0.924642,---,In,false,18:52:33,676.669983
+Opponent,1,first_serve,Serve,Flat,51.453045,18,3,1,short,ad,far,1.856401,13.17514,out,ad,near,-2.928581,-0.603167,2.382262,out wide,In,false,18:52:43,686.880005
+Pash S,2,first_return,Forehand,Topspin,35.605431,18,3,1,out,deuce_alley,near,4.471289,-1.739195,deep,ad,far,1.422987,24.303934,0.99123,inside in,Out,false,18:52:45,688.309998
+Pash S,1,first_serve,Serve,Slice,80.219284,19,4,1,short,deuce,far,-3.158415,17.648079,out,deuce,near,0.866028,-0.661566,2.638704,out wide,In,false,18:53:48,751.580017
+Opponent,2,first_return,Forehand,Slice,51.329788,19,4,1,short,deuce,far,-2.240155,12.058448,deep,deuce_alley,far,-4.703176,24.538801,1.00075,down the line,Net,false,18:53:49,752.659973
+Opponent,2,none,Feed,Topspin,18.186579,19,4,1,deep,ad,near,-1.326415,4.570627,deep,ad,far,1.139671,22.00124,1.401589,---,In,false,18:53:58,761.890015
+Pash S,1,first_serve,Serve,Flat,55.367832,20,4,1,short,deuce,near,1.457847,5.558846,deep,ad,near,-1.941615,-0.503543,2.278159,out wide,Net,false,18:54:11,774.330017
+Pash S,1,first_serve,Serve,Flat,46.25806,20,4,1,short,deuce,near,2.400657,10.666922,deep,ad,near,-1.514126,-0.521797,2.166304,out wide,Net,false,18:54:16,779.869995
+Pash S,1,first_serve,Serve,Slice,74.277222,21,4,1,short,deuce,far,-4.039257,17.986076,deep,deuce,near,0.989035,0.258344,2.711455,out wide,In,false,18:54:42,806.030029
+Opponent,0,none,Feed,Topspin,17.320551,22,4,1,short,center_line,near,0,8.123842,deep,ad,far,0.791011,24.693888,1.257064,---,In,false,18:54:48,811.840027
+Opponent,1,none,Forehand,Flat,50.430958,22,4,1,deep,ad_alley,near,-4.942925,1.490953,short,deuce_alley,far,-4.884865,14.492272,2.304821,down the line,Out,false,18:54:49,813
+Pash S,1,first_serve,Serve,Slice,64.753555,22,4,1,short,deuce,near,1.668428,10.462137,deep,ad,near,-2.310454,-0.222704,2.288575,out wide,Net,false,18:55:00,823.950012
+Pash S,1,first_serve,Serve,Flat,52.029999,22,4,1,deep,ad,far,1.767631,19.447691,out,ad,near,-2.618546,-0.745388,2.338596,down the T,Out,false,18:55:06,829.890015
+Opponent,2,first_return,Forehand,Flat,26.988136,22,4,1,short,ad,near,-0.280308,7.558886,deep,ad,far,1.970186,22.326876,1.595136,inside out,In,false,18:55:08,831.320007
+Pash S,3,serve_plus_one,Forehand,Topspin,48.487724,22,4,1,deep,deuce,far,-3.844986,23.120365,deep,ad,near,-0.511814,3.304435,1.21589,inside in,In,false,18:55:10,833.52002
+Opponent,6,none,Feed,Flat,18.186579,22,4,1,short,deuce,near,1.587504,5.763885,short,deuce,far,-0.380306,12.618612,2.357039,---,In,false,18:55:20,844.219971
+Pash S,1,first_serve,Serve,Flat,81.017197,23,4,1,deep,deuce,far,-1.43294,19.519981,deep,deuce,near,0.971255,-0.523754,2.686488,down the T,Out,false,18:55:39,862.690002
+Opponent,1,none,Backhand,Slice,39.274483,23,4,1,short,deuce,far,-1.914758,16.983145,deep,deuce,far,-2.357913,24.107561,0.947891,inside out,Net,false,18:55:40,863.73999
+Pash S,1,first_serve,Serve,Flat,39.776855,23,4,1,short,deuce,far,-0.636017,12.111128,deep,deuce,near,0.761311,0.174015,2.773354,down the T,In,false,18:55:46,869.330017
+Opponent,2,first_return,Backhand,Flat,35.271553,23,4,1,deep,deuce,near,0.692315,1.351678,deep,deuce,far,-1.525015,22.33576,1.018044,inside out,In,false,18:55:47,870.859985
+Pash S,3,serve_plus_one,Forehand,Flat,47.050133,23,4,1,deep,ad,far,1.639739,18.596231,out,deuce,near,0.499401,-1.146922,1.230102,down the line,In,false,18:55:49,872.76001
+Opponent,4,return_plus_one,Backhand,Topspin,53.987286,23,4,1,deep,ad,near,-2.603122,3.337409,out,ad,far,1.908748,25.345572,0.8177,cross court,In,false,18:55:51,874.349976
+Pash S,5,in_play,Backhand,Flat,44.178848,23,4,1,deep,deuce,far,-1.08992,18.318195,out,ad,near,-2.805992,-1.486022,0.901842,down the line,In,false,18:55:52,875.869995
+Opponent,6,in_play,Forehand,Flat,54.249985,23,4,1,out,deuce_alley,near,4.270711,-1.136285,out,deuce,far,-0.593329,25.563623,1.087855,down the line,Out,false,18:55:54,877.599976
+Pash S,0,none,Feed,Flat,19.918634,24,5,1,short,ad,far,1.88354,14.276352,deep,deuce,near,2.83251,2.191265,1.261093,---,In,false,18:56:03,887.059998
+Opponent,1,first_serve,Serve,Flat,62.922188,24,5,1,deep,deuce,near,0.905104,5.146159,deep,deuce,far,-1.318933,23.653868,2.658568,down the T,Out,false,18:56:24,908.22998
+Pash S,2,none,Backhand,Topspin,47.619484,24,5,1,deep,deuce,far,-0.078167,21.069962,out,deuce,near,1.311029,-1.087459,1.1105,inside out,In,false,18:56:26,909.330017
+Opponent,1,first_serve,Serve,Flat,52.000896,24,5,1,short,ad,near,-0.302294,6.296224,deep,deuce,far,-0.92575,23.583879,2.513075,down the T,Out,false,18:56:33,916.960022
+Pash S,2,first_return,Backhand,Slice,36.196079,24,5,1,short,deuce,far,-2.346584,17.500067,deep,ad,near,-0.369292,0.514085,0.481363,down the line,In,false,18:56:35,918.469971
+Opponent,1,first_serve,Serve,Slice,43.119221,25,5,1,short,deuce,far,-0.710656,17.422789,deep,ad,far,1.35276,22.795938,2.606546,down the T,Net,false,18:56:53,936.429993
+Opponent,1,first_serve,Serve,Flat,37.577591,25,5,1,short,ad,near,-0.917573,7.016758,deep,ad,far,1.061061,22.77153,2.4577,down the T,In,false,18:56:59,942.72998
+Pash S,2,first_return,Forehand,Topspin,45.786163,25,5,1,deep,deuce_alley,far,-4.152829,18.392715,deep,ad,near,-1.182711,-0.246635,1.030228,inside in,Out,false,18:57:01,944.27002
+Opponent,1,first_serve,Serve,Slice,51.977188,26,5,1,deep,deuce,near,2.110559,4.205088,deep,deuce,far,-1.390508,23.469067,2.739403,down the T,Out,false,18:57:22,966.169983
+Pash S,1,none,Forehand,Flat,36.865398,26,5,1,deep,ad,far,1.801377,20.164051,deep,deuce,near,2.894717,-0.234957,1.273368,down the line,In,false,18:57:24,967.460022
+Opponent,1,first_serve,Serve,Slice,49.627861,26,5,1,short,deuce,near,1.70348,5.536178,deep,deuce,far,-1.404852,23.583879,2.510977,down the T,In,false,18:57:32,975.76001
+Pash S,2,first_return,Forehand,Topspin,37.050842,26,5,1,deep,ad,far,0.012044,19.421162,deep,deuce,near,2.444234,0.934592,1.119859,down the line,In,false,18:57:33,977.200012
+Opponent,3,serve_plus_one,Forehand,Topspin,43.72456,26,5,1,deep,deuce_alley,near,4.120833,0.002052,deep,deuce,far,-0.052295,19.880013,1.896139,down the line,Out,false,18:57:35,979.099976
+Pash S,5,none,Feed,Flat,25.114799,26,5,1,short,ad,near,-0.966828,5.963419,deep,deuce,near,2.945369,0.182765,1.123968,---,Net,false,18:57:43,986.460022
+Opponent,1,first_serve,Serve,Slice,57.349442,27,5,1,short,ad,near,-2.165199,8.46253,deep,ad,far,1.139534,24.200672,2.618528,out wide,In,false,18:58:02,1005.359985
+Pash S,2,first_return,Backhand,Slice,30.135023,27,5,1,short,deuce,near,1.335748,10.898577,deep,ad,near,-3.767434,-0.371366,0.907884,down the line,Net,false,18:58:03,1006.659973
+Opponent,1,first_serve,Serve,Slice,56.084301,28,5,1,deep,deuce,near,0.717899,5.423177,deep,deuce,far,-0.731692,23.998575,2.718259,down the T,Out,false,18:58:25,1028.969971
+Pash S,1,none,Backhand,Flat,34.987358,28,5,1,deep,ad,far,0.958549,21.254227,out,deuce,near,0.942231,-1.23464,1.394037,inside in,In,false,18:58:26,1030.119995
+Opponent,1,first_serve,Serve,Slice,45.065899,28,5,1,short,deuce,near,2.404846,6.191095,deep,deuce,far,-1.225887,24.355663,2.665353,out wide,In,false,18:58:34,1037.48999
+Pash S,2,first_return,Forehand,Topspin,49.313423,28,5,1,deep,deuce,far,-1.036088,22.362541,deep,deuce,near,3.541982,0.113314,0.848457,cross court,In,false,18:58:35,1039.030029
+Opponent,3,serve_plus_one,Forehand,Topspin,43.982639,28,5,1,short,ad,near,-1.182385,7.378628,deep,deuce,far,-1.357892,23.766489,1.241829,down the line,In,false,18:58:37,1040.579956
+Pash S,4,return_plus_one,Backhand,Flat,37.623829,28,5,1,short,deuce,far,-2.620803,17.782305,deep,ad,near,-1.376032,0.99557,0.722021,down the line,In,false,18:58:38,1042.130005
+Opponent,5,in_play,Forehand,Slice,34.728542,28,5,1,deep,ad,near,-0.487135,4.934335,deep,deuce,far,-2.942854,23.755953,0.695712,down the line,In,false,18:58:40,1043.810059
+Pash S,6,in_play,Forehand,Topspin,45.368206,28,5,1,deep,deuce,far,-1.234859,22.66847,deep,deuce,near,0.286546,0.160835,1.103514,cross court,In,false,18:58:42,1045.77002
+Opponent,7,in_play,Forehand,Topspin,26.996931,28,5,1,deep,deuce,far,-0.138744,21.074295,out,deuce,far,-1.105518,25.150372,1.063157,cross court,Net,false,18:58:43,1047.180054
+Opponent,1,first_serve,Serve,Flat,56.025642,29,5,1,short,ad,near,-4.026509,7.035362,deep,ad,far,1.475051,23.999432,2.502839,out wide,In,false,18:59:34,1097.969971
+Pash S,2,first_return,Backhand,Topspin,33.620907,29,5,1,deep,deuce,far,-2.816453,18.366411,deep,ad_alley,near,-4.854199,0.343224,0.975293,down the line,In,false,18:59:36,1099.469971
+Opponent,3,serve_plus_one,Forehand,Topspin,47.72794,29,5,1,short,ad,near,-1.94751,7.916448,deep,deuce,far,-2.133982,23.653215,1.046286,down the line,In,false,18:59:38,1101.670044
+Pash S,4,return_plus_one,Backhand,Slice,35.982918,29,5,1,deep,ad,far,0.933121,21.340919,deep,ad,near,-1.279234,0.478422,0.616506,cross court,In,false,18:59:39,1103.069946
+Opponent,5,in_play,Backhand,Topspin,35.731487,29,5,1,deep,ad,near,-1.667632,2.656478,deep,ad,far,0.906018,22.054758,1.056183,cross court,In,false,18:59:42,1105.359985
+Pash S,6,in_play,Backhand,Flat,41.495037,29,5,1,short,deuce,far,-1.251561,15.240355,out,ad,near,-1.807696,-2.062235,1.499595,down the line,In,false,18:59:43,1107.089966
+Opponent,7,in_play,Forehand,Slice,32.713196,29,5,1,short,ad,near,-2.869743,7.621609,deep,deuce,far,-0.877365,22.863081,0.730309,down the line,In,false,18:59:46,1109.400024
+Pash S,8,in_play,Backhand,Topspin,40.44231,29,5,1,deep,ad,far,3.951738,23.512602,deep,ad,near,-2.022568,1.769817,1.175431,cross court,In,false,18:59:48,1111.359985
+Opponent,9,in_play,Backhand,Flat,34.062965,29,5,1,deep,deuce,near,3.945421,1.11255,deep,ad,far,3.289301,23.845903,1.189611,down the line,In,false,18:59:50,1113.27002
+Pash S,10,in_play,Forehand,Topspin,27.569641,29,5,1,short,ad,near,-1.073998,10.067966,out,deuce,near,3.678234,-2.939325,2.1891,down the line,Net,false,18:59:53,1116.890015
+Opponent,1,first_serve,Serve,Slice,52.003361,30,5,1,short,deuce,near,0.558558,6.754149,short,deuce,far,-0.487341,23.632326,2.13763,down the T,In,false,19:00:11,1134.719971
+Pash S,2,first_return,Backhand,Slice,37.622654,30,5,1,deep,ad,far,0.03194,21.521671,deep,deuce,near,0.844817,1.292232,1.097568,inside in,In,false,19:00:12,1135.98999
+Opponent,3,serve_plus_one,Backhand,Flat,43.067772,30,5,1,deep,deuce,near,0.067119,3.832688,deep,ad,far,0.256608,24.234278,1.13279,down the line,In,false,19:00:14,1137.76001
+Pash S,4,return_plus_one,Forehand,Topspin,53.464851,30,5,1,short,ad,far,0.584774,18.248211,out,deuce,near,0.366248,-0.991507,1.091754,down the line,In,false,19:00:16,1139.359985
+Opponent,5,in_play,Backhand,Flat,46.930607,30,5,1,deep,ad,near,-2.223865,4.265924,deep,ad,far,1.017154,24.639845,0.622627,cross court,In,false,19:00:17,1140.939941
+Pash S,6,in_play,Backhand,Topspin,46.205654,30,5,1,deep,ad,far,0.698422,20.900206,out,ad,near,-2.857007,-0.63996,1.255761,cross court,In,false,19:00:19,1142.609985
+Opponent,7,in_play,Forehand,Topspin,51.310806,30,5,1,deep,ad,near,-2.581774,5.484767,deep,ad,far,1.12129,24.665346,1.253493,inside out,In,false,19:00:21,1144.400024
+Pash S,8,in_play,Backhand,Slice,34.626453,30,5,1,deep,deuce_out,far,-5.984827,18.800041,deep,ad,near,-2.906085,0.001133,1.141884,down the line,Out,false,19:00:22,1145.810059
+Pash S,0,none,Feed,Flat,19.052607,31,5,1,out,ad,far,0.818734,25.042599,short,deuce,near,1.055692,10.218972,1.886135,---,Out,false,19:00:31,1154.920044
+Opponent,1,first_serve,Serve,Slice,54.82328,31,5,1,short,ad,near,-0.933647,6.891682,deep,ad,far,0.975841,24.186586,2.624892,down the T,In,false,19:00:39,1162.699951
+Pash S,2,first_return,Forehand,Topspin,48.636162,31,5,1,deep,ad,far,0.520809,21.67248,out,ad,near,-1.39661,-1.289237,0.994763,inside out,In,false,19:00:40,1163.97998
+Opponent,3,serve_plus_one,Forehand,Topspin,48.571564,31,5,1,deep,deuce,near,2.030046,2.561869,deep,ad,far,0.97957,24.449411,1.457037,inside in,In,false,19:00:42,1165.52002
+Pash S,4,return_plus_one,Forehand,Topspin,52.381344,31,5,1,deep,deuce_alley,far,-4.417534,22.780304,out,deuce,near,2.04153,-0.64292,1.123904,down the line,Out,false,19:00:43,1166.849976
+Opponent,5,in_play,Forehand,Slice,37.726738,31,5,1,out,deuce,near,1.535433,-1.734511,deep,deuce,far,-0.158217,24.973707,0.956544,cross court,Out,false,19:00:45,1168.699951
+Pash S,6,none,Feed,Topspin,21.650688,31,5,1,short,deuce,far,-0.136825,15.898712,deep,deuce,near,0.842517,3.624365,0.885815,---,In,false,19:00:49,1172.76001
+Opponent,1,first_serve,Serve,Slice,30.539154,32,5,1,short,deuce,near,1.895168,7.093643,deep,deuce,far,-2.059243,23.62875,2.547759,down the T,In,false,19:00:57,1180.810059
+Pash S,2,first_return,Forehand,Flat,53.65593,32,5,1,short,deuce,far,-0.790556,18.254705,out,deuce_alley,near,4.339832,-1.16561,0.851231,down the line,In,false,19:00:59,1182.670044
+Opponent,3,serve_plus_one,Forehand,Topspin,57.234837,32,5,1,deep,deuce_alley,near,4.152464,1.371083,out,deuce,far,-2.651342,26.306627,0.639589,down the line,Out,false,19:01:00,1184.170044
+Pash S,4,return_plus_one,Forehand,Slice,45.731384,32,5,1,deep,ad,far,0.67974,19.929209,out,deuce_alley,near,4.402577,-1.27599,0.856638,down the line,In,false,19:01:02,1185.75
+Opponent,5,in_play,Forehand,Flat,65.481926,32,5,1,deep,ad,near,-1.276481,5.45446,out,ad,far,0.224936,25.734491,1.079757,inside out,In,false,19:01:04,1187.609985
+Pash S,6,in_play,Backhand,Flat,36.826279,32,5,1,deep,deuce,far,-0.456387,20.797606,out,ad,near,-1.216001,-0.677631,0.736203,down the line,In,false,19:01:05,1188.810059
+Opponent,7,in_play,Forehand,Topspin,44.820839,32,5,1,deep,deuce_alley,near,5.02709,5.476971,deep,deuce,far,-0.802337,24.063532,1.07945,down the line,Out,false,19:01:07,1190.97998
+Pash S,7,none,Feed,Flat,24.248772,32,5,1,deep,ad,far,1.758305,20.039932,short,deuce,near,3.593248,11.206514,2.773677,---,In,false,19:01:17,1201.069946
+Opponent,1,first_serve,Serve,Slice,58.452545,33,5,1,short,deuce,far,-1.095844,11.914907,deep,ad,far,1.333092,23.626816,2.738612,down the T,Net,false,19:01:29,1212.410034
+Opponent,1,first_serve,Serve,Flat,50.289341,33,5,1,short,ad,near,-2.556014,6.599416,deep,ad,far,1.101045,24.760199,2.5154,out wide,In,false,19:01:35,1219.069946
+Pash S,2,first_return,Forehand,Topspin,54.27594,33,5,1,deep,ad,far,3.776214,19.113609,out,ad_alley,near,-4.222778,-1.233346,1.141105,inside in,In,false,19:01:37,1220.48999
+Opponent,3,serve_plus_one,Backhand,Flat,29.731915,33,5,1,deep,deuce,near,1.592883,5.146775,deep,ad_alley,far,5.402562,23.50617,1.351941,down the line,In,false,19:01:38,1221.920044
+Pash S,4,return_plus_one,Forehand,Topspin,75.18177,33,5,1,short,deuce,far,-0.849157,15.300537,deep,deuce,near,0.867764,0.522813,1.587291,cross court,In,false,19:01:41,1224.939941
+Pash S,5,none,Feed,Topspin,23.18189,33,5,1,deep,deuce,far,-2.31942,18.535294,short,ad,near,-2.215786,7.440464,1.789736,---,In,false,19:01:49,1232.47998
+Opponent,1,first_serve,Serve,Slice,34.899555,34,5,1,deep,deuce,near,2.331521,4.77549,deep,deuce,far,-1.322987,23.592459,2.578769,down the T,Out,false,19:02:02,1245.459961
+Pash S,1,none,Forehand,Topspin,42.510044,34,5,1,deep,ad,far,3.63235,23.65799,out,deuce,near,3.391881,-1.126764,1.098817,down the line,In,false,19:02:03,1247.130005
+Opponent,1,first_serve,Serve,Slice,40.808384,34,5,1,short,deuce,near,1.824404,6.805663,deep,deuce,far,-1.855201,24.012295,2.652788,down the T,In,false,19:02:11,1254.26001
+Pash S,2,first_return,Forehand,Topspin,50.48135,34,5,1,deep,deuce,far,-0.114296,21.401083,deep,deuce,near,2.279124,-0.050893,1.023961,cross court,In,false,19:02:12,1255.910034
+Opponent,3,serve_plus_one,Forehand,Topspin,40.839558,34,5,1,deep,deuce,near,0.041993,4.976905,deep,deuce,far,-0.229363,24.171309,0.929625,cross court,In,false,19:02:14,1257.380005
+Pash S,4,return_plus_one,Forehand,Topspin,54.971451,34,5,1,deep,deuce,far,-1.457206,18.965723,out,ad,near,-0.100768,-0.815104,1.276391,inside in,In,false,19:02:15,1259.140015
+Opponent,5,in_play,Forehand,Topspin,41.505501,34,5,1,short,ad,near,-2.490572,6.51748,deep,deuce,far,-1.643685,24.686014,0.885632,down the line,In,false,19:02:17,1260.48999
+Pash S,6,in_play,Backhand,Slice,41.356277,34,5,1,deep,deuce,far,-0.003335,22.923828,out,ad,near,-3.329386,-0.637765,1.150245,down the line,In,false,19:02:18,1262.22998
+Opponent,7,in_play,Forehand,Flat,43.452106,34,5,1,short,ad,near,-0.401769,9.293797,out,ad,far,0.117477,25.096895,0.970514,inside out,In,false,19:02:21,1264.380005
+Pash S,8,in_play,Forehand,Slice,25.034359,34,5,1,short,deuce,far,-2.155287,15.417347,deep,ad,near,-0.309978,3.630798,0.359179,inside in,In,false,19:02:22,1265.920044
+Opponent,9,in_play,Forehand,Topspin,39.006981,34,5,1,short,ad_alley,near,-4.769067,7.67852,deep,deuce,far,-2.60566,19.694218,0.749591,down the line,Out,false,19:02:24,1268.23999
+Pash S,0,none,Feed,Flat,18.186579,35,5,1,short,ad,far,0.44152,17.688261,deep,ad,near,-3.324311,0.001337,0.92302,---,In,false,19:02:38,1281.650024
+Opponent,1,first_serve,Serve,Slice,58.235565,35,5,1,short,ad_alley,near,-4.487549,7.30306,deep,ad,far,1.419299,23.511019,2.555227,out wide,Out,false,19:02:52,1296.079956
+Pash S,2,none,Backhand,Slice,27.502548,35,5,1,short,deuce_alley,near,4.145046,10.605841,deep,ad_out,near,-5.528068,1.338223,0.824528,down the line,Net,false,19:02:54,1297.26001
+Opponent,1,first_serve,Serve,Flat,40.231483,35,5,1,short,ad,near,-1.263374,8.225395,deep,ad,far,1.166938,23.388205,2.656453,down the T,In,false,19:03:01,1304.660034
+Pash S,2,first_return,Forehand,Topspin,52.737267,35,5,1,short,deuce,far,-0.696213,17.76409,deep,ad,near,-2.053868,0.675966,0.967627,inside in,In,false,19:03:02,1306.189941
+Opponent,3,serve_plus_one,Forehand,Flat,45.273319,35,5,1,deep,deuce,near,1.527846,5.469779,out,deuce,far,-0.205072,25.601034,0.683362,cross court,In,false,19:03:04,1307.48999
+Pash S,4,return_plus_one,Forehand,Topspin,48.428551,35,5,1,short,deuce,far,-2.288795,17.293732,deep,deuce,near,1.688596,-0.300424,0.895947,cross court,In,false,19:03:05,1308.98999
+Opponent,5,in_play,Forehand,Topspin,48.290115,35,5,1,deep,deuce,near,3.272346,1.156932,out,deuce_alley,far,-4.219985,25.909956,0.831962,down the line,In,false,19:03:07,1310.530029
+Pash S,6,in_play,Forehand,Topspin,39.784927,35,5,1,deep,deuce,far,-1.60994,22.539513,deep,deuce,near,3.732631,0.077341,0.834439,cross court,In,false,19:03:08,1311.829956
+Opponent,7,in_play,Backhand,Topspin,38.711121,35,5,1,deep,ad,near,-1.980555,2.678521,deep,deuce,far,-1.908929,24.602373,1.10769,inside in,In,false,19:03:10,1313.310059
+Pash S,8,in_play,Backhand,Topspin,41.239315,35,5,1,short,ad,far,0.279619,16.860144,out,ad,near,-1.645366,-0.635375,0.83313,cross court,In,false,19:03:12,1315.300049
+Opponent,9,in_play,Backhand,Flat,45.749016,35,5,1,short,deuce,near,2.025865,6.368216,deep,ad,far,1.303943,24.267405,0.740382,down the line,In,false,19:03:13,1317.069946
+Pash S,10,in_play,Forehand,Slice,36.190521,35,5,1,deep,deuce,far,-2.932814,19.163048,deep,deuce,near,2.295011,0.792858,0.428473,cross court,In,false,19:03:15,1318.540039
+Opponent,11,in_play,Forehand,Topspin,46.732819,35,5,1,deep,deuce,near,2.334183,5.054535,out,deuce_alley,far,-4.363822,25.22595,0.824285,down the line,In,false,19:03:17,1320.48999
+Pash S,12,in_play,Forehand,Topspin,37.465141,35,5,1,short,ad,near,-1.808622,5.625414,deep,deuce,near,3.220268,-0.492175,1.133266,down the line,Net,false,19:03:18,1322.01001
+Opponent,0,none,BH Volley,Flat,19.918634,36,6,1,short,center_line,near,0,6.82876,deep,ad_alley,far,4.148491,23.087107,0.615875,down the line,In,false,19:03:25,1328.380005
+Pash S,1,first_serve,Serve,Flat,66.352364,36,6,1,deep,deuce,near,3.025319,5.260843,deep,deuce,far,-1.380616,22.8524,2.700083,out wide,Out,false,19:04:34,1398.099976
+Opponent,2,none,Forehand,Slice,44.775173,36,6,1,short,deuce,near,3.114536,9.716682,deep,deuce,near,4.086287,0.301938,1.037401,cross court,Net,false,19:04:35,1399.160034
+Pash S,1,first_serve,Serve,Flat,47.934994,36,6,1,short,deuce,near,2.589975,8.947608,out,deuce,far,-1.629972,23.17816,2.685863,out wide,In,false,19:04:41,1405.119995
+Opponent,2,first_return,Forehand,Slice,50.351536,36,6,1,short,ad,far,1.483746,12.990369,deep,deuce_alley,near,4.626406,0.305262,0.515136,down the line,In,false,19:04:43,1406.569946
+Pash S,3,serve_plus_one,Backhand,Slice,32.272636,36,6,1,deep,ad,near,-1.86968,4.156446,deep,ad,far,1.033162,19.652353,0.951794,cross court,In,false,19:04:45,1408.469971
+Opponent,4,return_plus_one,Backhand,Topspin,47.801735,36,6,1,short,deuce,far,-0.572698,14.386261,out,ad,near,-1.982245,-0.714392,0.658042,down the line,In,false,19:04:46,1410.160034
+Pash S,5,in_play,FH Volley,Flat,20.784662,36,6,1,deep,ad,near,-0.060565,4.832604,short,deuce,far,-0.572698,15.595049,2.58119,down the line,In,false,19:04:47,1410.97998
+Opponent,6,in_play,Forehand,Topspin,49.736919,36,6,1,deep,ad,far,3.919762,23.642389,out,ad,near,-0.529511,-1.267626,1.246295,inside out,In,false,19:04:49,1412.359985
+Pash S,1,first_serve,Serve,Slice,66.440735,37,6,1,deep,ad,near,-2.167514,4.0869,deep,ad,far,-0.190679,23.684401,2.352822,down the T,Out,false,19:05:18,1441.319946
+Opponent,1,none,Forehand,Slice,35.555744,37,6,1,short,deuce_alley,near,5.457408,11.798347,out,ad,near,-2.741199,-1.326283,0.908064,inside in,Net,false,19:05:19,1442.310059
+Pash S,1,first_serve,Serve,Slice,52.109188,37,6,1,deep,ad,near,-1.027668,5.419971,deep,ad,far,0.933851,23.751616,2.35148,down the T,Out,false,19:05:29,1452.300049
+Opponent,2,first_return,Forehand,Flat,35.153439,37,6,1,short,deuce,far,-0.396562,18.169281,deep,ad,near,-1.89412,-0.462691,1.193721,inside in,In,false,19:05:30,1453.599976
+Pash S,3,serve_plus_one,Forehand,Topspin,49.90831,37,6,1,short,deuce,near,3.636344,6.125843,deep,deuce,far,-0.650624,23.857525,0.944364,cross court,In,false,19:05:32,1455.5
+Opponent,0,none,Feed,Flat,20.564095,38,6,1,deep,deuce,near,1.254046,3.03811,deep,deuce,near,2.352155,1.468433,1.076423,---,Net,false,19:05:39,1462.72998
+Opponent,1,none,Feed,Flat,17.320551,38,6,1,deep,deuce,far,-2.09542,18.42798,deep,deuce,near,0.43911,3.147127,2.231402,---,In,false,19:05:41,1464.530029
+Pash S,1,first_serve,Serve,Flat,72.105568,38,6,1,deep,deuce,near,1.557321,4.817282,deep,deuce,far,-1.505514,24.356169,2.604091,down the T,Out,false,19:05:50,1473.670044
+Opponent,3,none,Backhand,Topspin,30.225996,38,6,1,short,deuce,far,-0.966225,16.167931,deep,deuce,near,2.467551,-0.101274,0.75192,inside out,In,false,19:05:51,1474.540039
+Pash S,1,first_serve,Serve,Slice,50.363895,38,6,1,short,ad,far,0.8768,17.348986,deep,deuce,far,-1.493774,24.59683,2.625261,out wide,Net,false,19:06:00,1483.76001
+Pash S,1,first_serve,Serve,Flat,56.895241,39,6,1,short,ad,near,-1.871559,8.89772,deep,ad,far,1.368791,24.950741,2.616756,down the T,In,false,19:06:29,1512.780029
+Opponent,2,first_return,Forehand,Topspin,55.470707,39,6,1,deep,ad,far,2.131566,20.522625,out,ad,near,-3.809188,-1.39484,0.98324,inside out,In,false,19:06:31,1514.280029
+Pash S,3,serve_plus_one,Backhand,Topspin,29.825533,39,6,1,deep,ad,near,-0.075885,5.464611,deep,ad,far,2.632517,24.146988,1.241369,cross court,In,false,19:06:32,1515.699951
+Opponent,4,return_plus_one,Forehand,Topspin,52.125622,39,6,1,deep,deuce,far,-2.452318,19.182356,deep,deuce,near,0.041657,2.369357,1.662658,cross court,In,false,19:06:35,1518.77002
+Pash S,5,in_play,Forehand,Flat,39.924809,39,6,1,out,ad_alley,near,-4.349212,-0.502434,out,deuce,far,-2.523941,25.173037,0.935166,down the line,Out,false,19:06:36,1519.880005
+Opponent,0,none,Feed,Flat,13.084916,40,6,1,short,deuce,near,2.165468,5.709128,short,deuce,near,0.471489,11.623924,0.794021,---,Net,false,19:06:43,1526.689941
+Pash S,1,first_serve,Serve,Flat,67.23127,40,6,1,short,ad,far,1.523527,18.267832,deep,deuce,far,-1.389631,24.416739,2.628884,out wide,Net,false,19:07:00,1543.969971
+Pash S,1,first_serve,Serve,Flat,55.367916,40,6,1,short,deuce,near,1.767058,5.493258,deep,deuce,far,-1.204903,24.055799,2.53618,down the T,In,false,19:07:06,1549.900024
+Opponent,2,first_return,Forehand,Slice,35.002754,40,6,1,deep,ad,far,3.808527,22.918476,deep,deuce,near,3.201189,0.150389,1.432286,down the line,In,false,19:07:07,1551.099976
+Pash S,3,serve_plus_one,Backhand,Flat,40.437187,40,6,1,deep,deuce,near,0.000808,3.09265,deep,ad,far,3.949127,24.387117,1.245175,down the line,In,false,19:07:10,1553.72998
+Opponent,4,return_plus_one,Forehand,Flat,41.353924,40,6,1,deep,ad,far,0.431592,22.382111,out,ad,near,-0.655056,-1.691216,1.306109,inside out,In,false,19:07:12,1555.469971
+Pash S,5,in_play,Forehand,Topspin,51.505852,40,6,1,deep,deuce,near,0.073303,4.821929,out,ad,far,1.296768,25.907484,1.412066,inside in,In,false,19:07:14,1557.699951
+Opponent,6,in_play,Forehand,Topspin,66.147499,40,6,1,out,ad_alley,far,5.422022,35.366478,out,ad,near,-0.516904,-1.129341,1.106224,inside in,Out,false,19:07:15,1559.23999
+Pash S,1,first_serve,Serve,Flat,74.996933,41,6,1,short,deuce,far,-1.089025,16.258829,deep,ad,far,1.126076,23.747969,2.657641,out wide,Net,false,19:07:35,1578.780029
+Pash S,1,first_serve,Serve,Slice,50.766705,41,6,1,short,ad,near,-2.976808,8.881613,deep,ad,far,1.256309,24.846518,2.512602,out wide,In,false,19:07:41,1585.22998
+Opponent,2,first_return,Backhand,Topspin,44.178173,41,6,1,deep,deuce,far,-0.573269,22.08077,out,ad_alley,near,-4.50513,-0.87625,1.074258,down the line,In,false,19:07:43,1586.670044
+Pash S,3,serve_plus_one,Forehand,Topspin,47.269665,41,6,1,deep,deuce,near,2.596155,4.682312,out,deuce,far,-0.132911,25.761095,1.192453,cross court,In,false,19:07:45,1588.5
+Opponent,4,return_plus_one,Forehand,Flat,41.897743,41,6,1,short,deuce,far,-1.673612,15.879226,deep,deuce,near,2.694338,-0.43347,0.980941,cross court,In,false,19:07:46,1590.069946
+Pash S,5,in_play,Forehand,Slice,31.606033,41,6,1,deep,deuce,near,1.496692,1.554187,deep,deuce,far,-2.969239,21.114891,0.463903,cross court,In,false,19:07:48,1591.800049
+Opponent,6,in_play,Forehand,Topspin,52.331932,41,6,1,deep,ad,far,2.882349,22.482386,out,deuce,near,1.110024,-2.040561,1.228152,down the line,In,false,19:07:51,1594.410034
+Pash S,7,in_play,Backhand,Topspin,32.029282,41,6,1,short,deuce,far,-1.698113,14.540478,out,ad,far,2.569336,25.800692,1.284445,down the line,Net,false,19:07:52,1595.780029
+Opponent,0,none,Forehand,Slice,39.670433,42,6,1,short,deuce,near,2.96504,10.631471,deep,deuce_alley,near,5.012304,0.190498,0.96695,down the line,Net,false,19:08:24,1627.48999
+Opponent,0,none,Feed,Topspin,18.186579,43,6,1,short,ad,far,0.711681,17.674402,deep,deuce,near,0.270723,1.032291,0.583474,---,In,false,19:08:29,1632.310059
+Pash S,1,first_serve,Serve,Flat,73.482079,43,6,1,deep,ad,near,-2.899025,5.417616,deep,ad,far,1.194306,24.539766,2.636913,out wide,Out,false,19:08:41,1644.859985
+Opponent,2,none,Backhand,Slice,35.874187,43,6,1,short,ad_out,far,7.380486,18.190145,out,ad,near,-2.488628,-1.331564,-0.04201,down the line,Out,false,19:08:42,1645.709961
+Pash S,1,first_serve,Serve,Flat,48.954212,43,6,1,short,ad,near,-3.546222,6.585307,deep,ad,far,1.154237,24.026812,2.478274,out wide,In,false,19:08:56,1659.5
+Opponent,2,first_return,Backhand,Topspin,47.564796,43,6,1,deep,ad,far,3.574176,23.066305,out,ad_alley,near,-5.227552,-1.255383,0.880188,down the line,In,false,19:08:57,1660.920044
+Pash S,3,serve_plus_one,Backhand,Flat,40.530445,43,6,1,short,ad,near,-0.364817,6.372746,out,ad_alley,far,4.28918,26.046949,1.33277,down the line,In,false,19:08:59,1662.77002
+Opponent,4,return_plus_one,Forehand,Topspin,57.96648,43,6,1,deep,ad,far,3.86763,23.533213,out,ad,near,-1.16882,-0.562683,0.98095,inside out,In,false,19:09:01,1664.780029
+Pash S,1,first_serve,Serve,Flat,85.196854,44,6,1,deep,deuce,near,2.100323,4.142938,deep,deuce,far,-1.306027,23.357901,2.658664,down the T,Out,false,19:09:30,1694.219971
+Opponent,1,none,Backhand,Flat,28.5422,44,6,1,short,deuce,far,-2.569761,14.443045,out,deuce,near,2.477913,-1.100403,1.097413,inside out,In,false,19:09:31,1695.01001
+Pash S,1,first_serve,Serve,Slice,50.338741,44,6,1,deep,deuce,near,3.209622,4.671022,deep,deuce,far,-1.008717,23.893761,2.635611,out wide,Out,false,19:09:38,1702
+Opponent,2,first_return,Forehand,Flat,39.219479,44,6,1,deep,ad,far,2.177644,21.766655,out,deuce_alley,near,4.456365,-1.123874,1.139377,down the line,In,false,19:09:40,1703.47998
+Pash S,1,first_serve,Serve,Flat,66.068474,45,6,1,short,deuce,far,-1.33085,18.226231,deep,ad,far,1.059168,24.271326,2.571831,out wide,Net,false,19:10:00,1723.25
+Pash S,1,none,Feed,Flat,18.186579,45,6,1,short,ad,near,-1.939046,7.207035,short,ad,far,0.553962,15.818989,2.417162,---,In,false,19:10:09,1732.689941
+Opponent,2,first_return,Forehand,Topspin,46.945251,45,6,1,deep,deuce,far,-0.987384,18.784834,out,ad,near,-3.584355,-1.073433,1.109351,inside in,In,false,19:10:10,1733.890015
+Pash S,3,serve_plus_one,Forehand,Topspin,50.713966,45,6,1,deep,ad,near,-0.397476,5.058748,out,deuce,far,-0.589173,25.742956,0.748531,down the line,In,false,19:10:12,1735.51001
+Opponent,4,return_plus_one,Forehand,Topspin,46.976059,45,6,1,deep,deuce,far,-0.181951,21.107958,out,ad,near,-0.376916,-1.356493,0.863708,inside in,In,false,19:10:13,1736.949951
+Pash S,5,in_play,Forehand,Topspin,38.301418,45,6,1,short,ad,near,-2.572035,8.418273,out,deuce,far,-0.352696,25.269381,1.118942,down the line,In,false,19:10:15,1738.380005
+Opponent,6,in_play,Backhand,Topspin,41.59367,45,6,1,deep,ad,far,1.747032,20.27663,deep,ad,near,-0.300186,2.901815,0.704746,cross court,In,false,19:10:16,1740.180054
+Pash S,7,in_play,Backhand,Slice,36.453548,45,6,1,deep,deuce,near,0.991724,3.084956,deep,ad,far,2.596928,23.770184,1.301526,down the line,In,false,19:10:18,1741.839966
+Opponent,8,in_play,Forehand,Topspin,43.195683,45,6,1,deep,ad,far,2.367576,18.380337,out,deuce,near,1.219244,-1.512992,0.804284,down the line,In,false,19:10:20,1743.890015
+Pash S,9,in_play,Backhand,Flat,39.068153,45,6,1,short,ad,near,-0.370693,5.541852,out,ad,far,3.007992,25.129774,1.210861,cross court,In,false,19:10:22,1745.560059
+Opponent,10,in_play,Forehand,Topspin,59.340595,45,6,1,short,deuce,far,-1.848298,17.527386,out,ad,near,-0.619621,-0.535262,0.996557,inside in,In,false,19:10:24,1747.48999
+Pash S,11,in_play,Forehand,Topspin,43.650265,45,6,1,deep,ad,near,-3.412508,1.176215,out,deuce,far,-2.195711,25.016993,0.502318,down the line,In,false,19:10:25,1748.72998
+Opponent,12,in_play,Backhand,Flat,40.062561,45,6,1,short,deuce,near,0.82426,10.874099,out,ad,near,-3.353104,-1.352752,0.92699,down the line,Net,false,19:10:27,1750.390015
+Opponent,0,none,Feed,Flat,20.784662,46,6,1,short,deuce,far,-0.977418,18.049812,out,deuce,near,0.572757,-0.793782,0.751238,---,In,false,19:10:35,1758.569946
+Pash S,1,first_serve,Serve,Flat,67.750732,46,6,1,short,ad,far,0.905615,18.089914,out,deuce,far,-1.513504,25.126535,2.673516,out wide,Net,false,19:10:59,1782.290039
+Pash S,1,first_serve,Serve,Slice,50.282936,46,6,1,deep,deuce,near,2.525282,5.422022,out,deuce,far,-1.268505,25.078989,2.641552,out wide,Out,false,19:11:09,1793.140015
+Opponent,2,first_return,Forehand,Flat,41.227806,46,6,1,deep,deuce,far,-1.846582,22.073299,out,deuce,near,3.891969,-0.532499,1.274319,cross court,In,false,19:11:11,1794.670044
+Pash S,3,serve_plus_one,Forehand,Topspin,36.880169,46,6,1,deep,deuce,near,0.256649,4.489835,deep,deuce,far,-2.3514,24.805498,1.504153,cross court,In,false,19:11:13,1796.540039
+Opponent,4,return_plus_one,Forehand,Topspin,47.47261,46,6,1,short,deuce,far,-1.458863,15.824171,deep,deuce,near,0.31492,-0.158322,1.479768,cross court,In,false,19:11:15,1798.469971
+Pash S,5,in_play,Forehand,Flat,43.341541,46,6,1,deep,ad,near,-2.787083,5.467918,out,deuce,far,-2.623962,25.85207,0.502873,down the line,In,false,19:11:16,1800.040039
+Opponent,6,in_play,Backhand,Topspin,52.187199,46,6,1,deep,ad,far,0.436769,21.788263,out,ad,near,-2.821373,-1.055465,0.84791,cross court,In,false,19:11:18,1801.709961
+Pash S,7,in_play,Forehand,Topspin,56.211197,46,6,1,deep,deuce,near,1.433107,5.471982,deep,ad,far,0.516493,20.838814,1.642382,inside in,In,false,19:11:20,1803.459961
+Opponent,8,in_play,Forehand,Topspin,42.257381,46,6,1,short,deuce,far,-0.987063,18.279354,deep,deuce,near,1.225377,-0.478958,0.698209,cross court,In,false,19:11:21,1804.609985
+Pash S,9,in_play,Forehand,Topspin,45.465637,46,6,1,out,deuce,near,3.354448,-1.440591,out,deuce,far,-1.27021,25.522253,0.911183,cross court,Out,false,19:11:23,1806.329956
+Opponent,0,none,Forehand,Flat,45.229916,47,6,1,short,ad,far,0.609001,17.178774,out,ad,near,-0.178686,-0.745053,0.630215,inside out,In,false,19:11:38,1822.130005
+Pash S,1,first_serve,Serve,Slice,72.202713,47,6,1,deep,ad,near,-1.477543,5.479426,short,ad,far,0.451675,23.588198,1.921187,down the T,Out,false,19:11:48,1831.869995
+Opponent,2,first_return,Forehand,Slice,39.339664,47,6,1,short,ad,near,-2.790948,11.607201,deep,ad,near,-2.21928,0.106546,1.181024,inside out,Net,false,19:11:49,1832.890015
+Opponent,3,none,Feed,Topspin,20.784662,47,6,1,short,center_line,far,-0.013189,17.682211,deep,deuce,near,1.51086,0.099477,0.933625,---,In,false,19:11:54,1837.910034
+Pash S,1,first_serve,Serve,Slice,78.177475,48,6,1,short,deuce,near,2.661742,7.526196,deep,deuce,far,-2.052783,24.171228,2.71638,out wide,In,false,19:12:06,1849.790039
+Opponent,2,first_return,Forehand,Slice,49.134758,48,6,1,short,deuce,near,2.285414,10.724746,out,deuce_alley,near,4.849592,-0.572175,0.962218,down the line,Net,false,19:12:07,1850.810059
+Pash S,1,first_serve,Serve,Flat,77.467575,49,6,1,short,deuce,far,-1.512611,16.685181,out,ad,far,1.69083,25.174681,2.555961,out wide,Net,false,19:12:33,1876.540039
+Opponent,1,none,Backhand,Topspin,33.218998,49,6,1,deep,ad,far,1.089161,18.808102,deep,ad_alley,near,-4.366582,-0.411264,0.926087,down the line,In,false,19:12:35,1879.23999
+Pash S,1,first_serve,Serve,Flat,67.471397,49,6,1,short,ad,near,-2.609798,7.106052,deep,ad,far,1.479224,24.631231,2.560185,out wide,In,false,19:12:46,1889.430054
+Opponent,2,first_return,Backhand,Flat,38.554993,49,6,1,deep,deuce,far,-0.733925,21.559418,out,ad_alley,near,-4.178684,-1.238071,0.946648,down the line,In,false,19:12:47,1890.469971
+Pash S,3,serve_plus_one,Forehand,Flat,40.764118,49,6,1,short,deuce,near,0.230339,7.38818,out,deuce,far,-0.427001,25.395126,1.738278,cross court,In,false,19:12:49,1892.650024
+Opponent,4,return_plus_one,Forehand,Topspin,53.618896,49,6,1,deep,ad,far,1.543473,22.041908,out,deuce,near,0.480162,-0.986045,1.093799,down the line,In,false,19:12:51,1894.400024
+Pash S,5,in_play,Backhand,Topspin,34.06625,49,6,1,deep,deuce_alley,near,4.731529,3.170133,deep,ad,far,3.164261,23.467897,1.341783,down the line,Out,false,19:12:52,1895.73999
+Opponent,6,in_play,Forehand,Topspin,40.606037,49,6,1,short,deuce,far,-0.317391,17.607876,out,deuce_alley,near,4.707942,-1.134729,0.947308,down the line,In,false,19:12:55,1898.26001
+Pash S,1,first_serve,Serve,Flat,63.803936,50,6,1,short,deuce,near,0.668117,6.367712,deep,deuce,far,-1.045893,23.237181,2.594069,down the T,In,false,19:13:06,1910.219971
+Pash S,0,none,Feed,Flat,25.114799,51,6,1,short,center_line,near,0,6.477829,deep,ad,far,0.921178,20.103825,1.671905,---,In,false,19:13:23,1926.98999
+Opponent,1,none,Feed,Flat,19.918634,51,6,1,short,deuce,far,-3.131398,18.220652,deep,ad,near,-1.407322,1.67411,0.692999,---,In,false,19:13:27,1930.790039
+Pash S,1,first_serve,Serve,Slice,46.814865,51,6,1,short,ad,near,-2.110241,10.081985,deep,ad,far,1.469967,23.050564,2.454258,out wide,In,false,19:13:37,1941.130005
+Opponent,2,first_return,Forehand,Topspin,48.58485,51,6,1,deep,deuce,far,-1.822861,20.618107,out,ad,near,-2.845068,-0.671909,0.725543,inside in,In,false,19:13:39,1942.5
+Pash S,3,serve_plus_one,Forehand,Topspin,43.686443,51,6,1,short,ad,near,-2.224692,6.802627,out,deuce,far,-1.333867,25.092363,0.988898,down the line,In,false,19:13:40,1944.02002
+Opponent,4,return_plus_one,Backhand,Flat,47.309696,51,6,1,deep,deuce,far,-2.906594,19.667597,out,ad,near,-2.404106,-0.66171,0.43268,down the line,In,false,19:13:42,1945.650024
+Pash S,5,in_play,Forehand,Topspin,40.837357,51,6,1,short,deuce,near,1.601578,7.740366,out,deuce,far,-2.963947,26.346277,0.6622,cross court,In,false,19:13:43,1947.150024
+Opponent,6,in_play,Forehand,Slice,34.850216,51,6,1,deep,ad,far,1.267459,21.734516,deep,deuce,near,2.819565,0.000555,0.828525,down the line,In,false,19:13:45,1949.060059
+Pash S,7,in_play,Forehand,Flat,56.058884,51,6,1,deep,ad,near,-2.343324,3.413775,out,ad,far,0.98447,25.308237,0.946074,inside out,In,false,19:13:48,1951.359985
+Opponent,8,in_play,Backhand,Topspin,36.055435,51,6,1,short,ad,far,2.329623,17.46719,out,ad,near,-2.405494,-2.017864,-0.046186,cross court,In,false,19:13:49,1952.709961
+Pash S,9,in_play,Backhand,Slice,37.6101,51,6,1,deep,deuce,near,0.096318,5.180443,deep,ad,far,3.003994,21.516836,1.906193,down the line,In,false,19:13:51,1954.780029
+Opponent,10,in_play,Backhand,Flat,47.168488,51,6,1,deep,ad,far,2.437665,21.372103,deep,ad,near,-0.649984,0.623277,0.783735,cross court,In,false,19:13:53,1956.400024
+Pash S,11,in_play,Backhand,Topspin,33.521885,51,6,1,short,deuce,near,1.566735,8.400402,out,ad,far,2.647229,25.7017,1.257189,down the line,In,false,19:13:54,1957.920044
+Opponent,12,in_play,Forehand,Topspin,55.065289,51,6,1,deep,deuce,far,-1.8139,18.764305,deep,deuce,near,1.238653,0.760794,0.752388,cross court,In,false,19:13:56,1960.030029
+Pash S,13,in_play,Forehand,Topspin,69.19371,51,6,1,short,deuce,near,0.269199,7.481353,out,deuce,far,-2.819283,25.105242,0.836351,cross court,In,false,19:13:58,1961.540039
+Opponent,14,in_play,Forehand,Flat,16.306541,51,6,1,short,deuce,near,3.305254,9.6931,short,deuce,near,0.269199,6.956106,0.576694,cross court,Net,false,19:13:59,1962.5
+Pash S,1,first_serve,Serve,Flat,64.487343,52,6,1,short,ad,far,1.853342,14.833732,deep,deuce,far,-1.101836,23.903799,2.635824,out wide,Net,false,19:14:22,1985.310059
+Pash S,1,first_serve,Serve,Slice,48.189606,52,6,1,short,deuce,near,2.093978,7.969035,deep,deuce,far,-1.687531,23.904757,2.658796,out wide,In,false,19:14:31,1994.27002
+Opponent,2,first_return,Forehand,Topspin,51.73772,52,6,1,short,deuce,far,-0.657326,17.455837,out,deuce,near,3.193622,-0.733244,0.993547,cross court,In,false,19:14:32,1995.72998
+Pash S,3,serve_plus_one,Forehand,Topspin,44.561382,52,6,1,deep,deuce,near,0.168929,4.196911,out,deuce,far,-2.328012,25.114548,0.859804,cross court,In,false,19:14:34,1997.27002
+Opponent,4,return_plus_one,Forehand,Flat,44.096962,52,6,1,deep,deuce_alley,far,-4.124738,20.254871,out,deuce,near,0.296092,-1.130767,1.054376,down the line,Out,false,19:14:35,1998.939941
+Opponent,5,none,Feed,Topspin,24.248772,52,6,1,deep,ad,far,1.146711,19.949678,deep,deuce,near,0.437285,0.503919,0.927948,---,In,false,19:14:43,2006.609985
+Pash S,1,first_serve,Serve,Flat,55.865295,53,6,1,short,deuce,far,-1.197858,11.996254,out,ad,far,0.781367,22.71806,2.651497,down the T,Net,false,19:15:02,2025.72998
+Pash S,1,first_serve,Serve,Flat,49.860729,53,6,1,short,ad,near,-1.820097,7.601421,out,ad,far,1.491497,23.439278,2.54333,down the T,In,false,19:15:09,2032.969971
+Opponent,2,first_return,Backhand,Flat,40.867863,53,6,1,deep,ad,far,0.846053,23.16861,out,ad_alley,near,-4.517075,-1.518103,0.597172,down the line,In,false,19:15:11,2034.369995
+Pash S,3,serve_plus_one,Forehand,Topspin,37.964584,53,6,1,out,deuce,near,1.957026,-0.702222,deep,ad,far,1.197518,24.30514,1.923213,inside in,Out,false,19:15:13,2036.339966
+Opponent,4,none,Feed,Flat,25.114799,53,6,1,short,ad,far,0.451593,17.726254,deep,deuce,near,1.601544,1.469247,1.209917,---,In,false,19:15:17,2040.689941
+Opponent,5,none,Feed,Flat,23.382744,53,6,1,deep,ad,far,1.176734,19.247379,short,deuce,near,0.556003,8.944516,1.656416,---,In,false,19:15:23,2047.199951
+Pash S,1,first_serve,Serve,Flat,74.835724,54,6,1,short,ad,far,1.15612,17.960142,deep,deuce,far,-1.130184,24.905779,2.523069,out wide,Net,false,19:15:35,2058.409912
+Pash S,1,first_serve,Serve,Flat,54.093899,54,6,1,short,deuce,near,3.668903,5.529552,deep,deuce,far,-1.098134,24.901438,2.608173,out wide,In,false,19:15:50,2074.139893
+Opponent,2,none,Forehand,Topspin,41.408764,54,6,1,deep,ad,far,0.726757,21.131104,out,deuce_alley,near,5.417354,-0.750578,1.004375,down the line,In,false,19:15:52,2075.719971
+Pash S,3,none,Forehand,Topspin,60.207523,54,6,1,short,deuce,near,1.089594,5.557278,out,deuce,far,-0.488858,25.478683,1.030007,cross court,In,false,19:15:54,2077.790039
+Opponent,4,none,Forehand,Topspin,42.250179,54,6,1,short,deuce,near,2.264778,11.640312,deep,deuce,near,1.564567,-0.513216,1.026359,cross court,Net,false,19:15:55,2079.139893
+Opponent,5,none,Feed,Flat,20.925699,54,6,1,short,ad,far,0.901771,18.072279,short,deuce,near,0.560871,10.2984,2.234442,---,In,false,19:16:10,2094.23999
+Pash S,1,first_serve,Serve,Flat,74.195869,54,6,1,deep,ad,near,-2.924201,2.767923,deep,ad,far,1.475432,24.843182,2.55251,out wide,Out,false,19:16:29,2112.550049
+Pash S,1,first_serve,Serve,Slice,43.186008,54,6,1,short,ad,near,-2.239133,7.268167,deep,ad,far,1.285082,24.361217,2.564729,out wide,In,false,19:16:35,2118.98999
+Opponent,2,first_return,Backhand,Topspin,48.712372,54,6,1,short,ad,far,2.46341,17.745029,out,ad_alley,near,-4.542381,-1.139126,0.75191,down the line,In,false,19:16:37,2120.659912
+Pash S,3,serve_plus_one,Backhand,Slice,36.885727,54,6,1,deep,ad,near,-1.174241,3.031797,deep,ad,far,3.554906,24.078058,1.119896,cross court,In,false,19:16:39,2122.280029
+Opponent,4,return_plus_one,Forehand,Slice,35.700947,54,6,1,short,deuce,far,-0.277887,17.343225,out,ad,near,-1.172034,-1.551581,-0.022167,inside in,In,false,19:16:40,2124.179932
+Pash S,5,in_play,Forehand,Topspin,50.801899,54,6,1,deep,ad,near,-1.615817,3.059565,deep,deuce,far,-0.067337,23.010996,0.739656,down the line,In,false,19:16:43,2126.449951
+Opponent,6,in_play,Backhand,Flat,36.985596,54,6,1,short,ad,far,1.107389,13.657514,out,ad,near,-1.537689,-1.857319,0.744181,cross court,In,false,19:16:44,2127.620117
+Pash S,7,in_play,BH Volley,Flat,22.516716,54,6,1,deep,ad,near,-3.778147,3.431581,short,ad,far,1.107389,14.866302,1.594657,cross court,In,false,19:16:45,2128.77002
+Opponent,14,none,Feed,Flat,16.511604,54,6,1,short,ad,near,-2.549947,6.064431,short,ad,near,-2.437939,9.196073,1.904656,---,Net,false,19:16:50,2134.169922
+Opponent,1,first_serve,Serve,Flat,59.712505,56,7,1,short,deuce,far,-2.285163,16.724367,deep,deuce,near,0.588444,-0.3984,2.647052,out wide,In,false,19:17:14,2158.110107
+Pash S,2,first_return,Forehand,Topspin,50.798847,56,7,1,deep,ad,near,-0.564719,4.143269,out,deuce_alley,far,-4.202681,25.255781,0.909841,down the line,In,false,19:17:16,2159.350098
+Opponent,3,serve_plus_one,Backhand,Topspin,48.56628,56,7,1,out,ad_alley,far,4.805758,27.922266,deep,ad,near,-0.575488,0.193953,0.863585,down the line,Out,false,19:17:17,2160.610107
+Pash S,3,none,Feed,Flat,18.186579,56,7,1,short,ad,near,-0.060565,7.912152,deep,ad,far,0.531568,22.516056,1.319676,---,In,false,19:17:22,2165.800049
+Opponent,1,first_serve,Serve,Flat,63.028278,57,7,1,short,ad,far,1.444763,15.465893,deep,ad,near,-2.763954,-0.035763,2.148121,down the T,In,false,19:17:29,2173.090088
+Pash S,2,first_return,Forehand,Topspin,45.412506,57,7,1,deep,ad,near,-1.190951,1.857996,out,ad,far,1.942254,25.798105,0.79341,inside out,In,false,19:17:30,2174.23999
+Opponent,3,serve_plus_one,Forehand,Slice,38.170448,57,7,1,deep,deuce,far,-0.112536,18.557032,out,ad,near,-1.284493,-1.552095,1.101443,inside in,In,false,19:17:32,2175.909912
+Pash S,4,return_plus_one,Forehand,Topspin,51.117939,57,7,1,deep,deuce,near,2.205376,4.667881,deep,ad,far,0.119049,23.640654,0.914445,inside in,In,false,19:17:34,2177.810059
+Opponent,5,in_play,Forehand,Topspin,50.808876,57,7,1,short,deuce,far,-1.517019,17.053989,out,deuce,near,1.881334,-1.208866,0.624426,cross court,In,false,19:17:35,2179.199951
+Pash S,6,in_play,Forehand,Slice,25.319862,57,7,1,short,deuce,far,-0.765601,13.149843,deep,deuce,far,-3.374871,24.367767,0.537251,cross court,Net,false,19:17:37,2180.679932
+Opponent,1,first_serve,Serve,Flat,72.432022,58,7,1,short,deuce,far,-3.703332,17.880253,deep,deuce,near,0.568054,-0.12284,2.453024,out wide,In,false,19:17:49,2193.139893
+Pash S,2,first_return,Forehand,Topspin,47.426388,58,7,1,out,ad_alley,near,-4.145107,-1.888721,out,deuce_alley,far,-5.421868,25.583231,0.941267,down the line,Out,false,19:17:50,2194.159912
+Opponent,1,first_serve,Serve,Flat,55.218338,59,7,1,short,deuce,near,2.206841,10.815738,deep,ad,near,-2.63244,-0.26216,2.410818,out wide,Net,false,19:18:04,2207.820068
+Opponent,1,first_serve,Serve,Flat,46.775177,59,7,1,short,ad,far,1.860593,15.791098,deep,ad,near,-3.102659,0.012556,2.277145,down the T,In,false,19:18:13,2216.429932
+Pash S,2,first_return,Forehand,Topspin,46.579311,59,7,1,deep,ad,near,-3.509203,5.314461,deep,ad,far,2.091683,24.362314,0.691897,inside out,In,false,19:18:14,2218.050049
+Opponent,3,serve_plus_one,Backhand,Slice,41.589657,59,7,1,deep,ad,far,3.336062,19.825228,out,ad_alley,near,-4.749696,-1.555809,0.620003,down the line,In,false,19:18:16,2219.550049
+Pash S,4,return_plus_one,Backhand,Topspin,56.9911,59,7,1,short,ad,far,2.461096,18.171671,deep,ad,far,3.921358,23.594473,1.047041,cross court,Net,false,19:18:18,2221.379883
+Opponent,5,none,Feed,Flat,10.748139,59,7,1,deep,deuce,near,2.252332,2.087061,short,deuce,near,1.739958,9.654618,2.617813,---,Net,false,19:18:26,2229.76001
+Opponent,1,first_serve,Serve,Flat,64.667473,60,7,1,short,ad,near,-1.442095,11.147326,out,deuce,near,0.477389,-0.602381,2.589941,down the T,Net,false,19:18:40,2243.719971
+Opponent,1,first_serve,Serve,Flat,48.700344,60,7,1,short,deuce,far,-1.493744,18.073944,deep,deuce,near,0.603088,0.26524,2.585654,down the T,In,false,19:18:46,2249.959961
+Pash S,2,first_return,Forehand,Topspin,53.514656,60,7,1,deep,ad,near,-1.544154,3.01977,deep,deuce,far,-2.452945,24.504509,1.057345,down the line,In,false,19:18:48,2251.47998
+Opponent,3,serve_plus_one,Backhand,Flat,43.687004,60,7,1,short,ad,far,1.116886,17.494316,deep,ad,near,-1.61315,-0.522859,0.948978,cross court,In,false,19:18:49,2252.830078
+Pash S,4,return_plus_one,Forehand,Topspin,49.932426,60,7,1,deep,deuce,near,1.854805,4.901388,out,ad,far,1.137343,26.943953,0.620781,inside in,In,false,19:18:51,2254.550049
+Opponent,5,in_play,Forehand,Topspin,45.91161,60,7,1,short,ad,far,2.182747,15.820161,out,deuce,near,2.690112,-0.856,0.847111,down the line,In,false,19:18:52,2256.129883
+Pash S,6,in_play,Backhand,Slice,43.958317,60,7,1,deep,ad,near,-2.594081,2.262032,out,ad,far,2.12812,25.061844,0.728957,cross court,In,false,19:18:54,2257.47998
+Opponent,7,in_play,Backhand,Slice,37.721939,60,7,1,short,deuce,near,0.75409,8.233685,deep,ad,near,-2.072007,1.498726,1.089146,down the line,Net,false,19:18:56,2259.280029
+Opponent,1,first_serve,Serve,Flat,64.997597,61,7,1,short,ad,far,2.689486,17.314669,deep,ad,near,-2.938438,0.158861,2.302785,out wide,In,false,19:19:21,2285
+Pash S,2,first_return,Backhand,Slice,34.686188,61,7,1,deep,ad,near,-1.329885,3.048797,deep,ad,far,3.998948,23.890783,0.808842,cross court,In,false,19:19:22,2286.209961
+Opponent,3,serve_plus_one,Forehand,Topspin,53.248154,61,7,1,deep,deuce,far,-1.747731,22.26597,out,ad,near,-1.286296,-0.558322,0.770673,inside in,In,false,19:19:25,2288.540039
+Pash S,4,return_plus_one,Forehand,Topspin,43.885319,61,7,1,deep,ad,near,-2.750725,0.071141,out,deuce,far,-1.568097,25.87882,1.148738,down the line,In,false,19:19:26,2289.97998
+Opponent,5,in_play,Backhand,Slice,33.243351,61,7,1,deep,deuce,far,-1.602946,19.299908,out,ad_alley,near,-4.230014,-2.004283,1.086845,down the line,In,false,19:19:28,2292.01001
+Pash S,6,in_play,Forehand,Topspin,56.965801,61,7,1,short,deuce,near,0.979802,8.185323,deep,deuce,far,-0.776818,24.875086,0.974025,cross court,In,false,19:19:31,2294.850098
+Opponent,7,in_play,Forehand,Flat,41.554054,61,7,1,short,ad,far,1.240667,17.868093,deep,deuce,near,1.270266,-0.0494,0.34764,down the line,In,false,19:19:32,2296.219971
+Pash S,8,in_play,Backhand,Slice,45.935181,61,7,1,short,ad,near,-4.002264,5.525104,deep,ad,far,2.066388,23.781164,0.462323,cross court,In,false,19:19:34,2297.719971
+Opponent,9,in_play,Backhand,Slice,42.501011,61,7,1,out,ad,far,1.750129,26.682289,deep,ad,near,-1.508743,0.863701,0.561268,cross court,Out,false,19:19:35,2299.120117
+Pash S,1,first_serve,Serve,Flat,63.019775,62,8,1,short,deuce,far,-2.444773,17.484169,deep,deuce,near,0.971906,0.400559,2.737911,out wide,In,false,19:20:59,2382.389893
+Opponent,2,first_return,Forehand,Slice,32.512726,62,8,1,short,deuce,near,2.747977,5.820108,deep,deuce,far,-3.840656,23.39319,1.048659,cross court,In,false,19:21:00,2383.459961
+Pash S,3,serve_plus_one,Forehand,Flat,55.672264,62,8,1,short,deuce,far,-2.463864,17.458786,out,deuce,near,2.8326,-0.704938,1.181493,cross court,In,false,19:21:02,2385.610107
+Opponent,4,return_plus_one,Forehand,Topspin,39.616543,62,8,1,deep,ad_alley,near,-4.898795,3.883417,out,deuce_alley,far,-4.446869,26.735842,0.748571,down the line,Out,false,19:21:03,2387.030029
+Pash S,1,first_serve,Serve,Flat,71.005135,63,8,1,short,ad,far,0.734928,16.497606,out,ad,near,-2.476438,-0.871139,2.282993,down the T,In,false,19:21:16,2399.840088
+Opponent,2,first_return,Forehand,Topspin,50.530037,63,8,1,short,ad,far,1.074774,16.332033,deep,ad,far,1.213567,24.525003,0.925842,inside out,Net,false,19:21:17,2401.139893
+Pash S,1,first_serve,Serve,Flat,66.396835,64,8,1,short,deuce,far,-3.195633,16.162062,deep,deuce,near,1.027652,0.286151,2.666936,out wide,In,false,19:21:28,2412.090088
+Opponent,2,first_return,Forehand,Topspin,54.941887,64,8,1,deep,deuce,near,0.819377,3.008209,out,deuce_alley,far,-5.26778,25.902119,1.058731,down the line,In,false,19:21:30,2413.340088
+Pash S,2,none,Feed,Topspin,24.248772,64,8,1,short,deuce,near,2.766363,10.566156,out,deuce,near,1.128582,-1.903173,1.804721,---,Net,false,19:21:31,2414.620117
+Pash S,1,first_serve,Serve,Flat,63.044788,65,8,1,short,ad,far,1.460862,15.172112,deep,ad,near,-2.006031,-0.033657,2.273836,down the T,In,false,19:21:55,2438.679932
+Opponent,2,first_return,Forehand,Slice,32.088024,65,8,1,short,deuce,near,2.854231,6.548366,deep,ad,far,1.641815,23.388845,1.000746,inside in,In,false,19:21:56,2439.810059
+Pash S,1,first_serve,Serve,Slice,67.95266,66,8,1,short,deuce,far,-2.815013,16.518492,deep,deuce,near,0.735326,0.070723,2.540056,out wide,In,false,19:22:15,2458.959961
+Opponent,2,first_return,Forehand,Slice,48.832001,66,8,1,short,deuce,near,1.353123,9.116134,out,deuce_alley,far,-4.354975,25.31885,0.884379,down the line,In,false,19:22:17,2460.26001
+Pash S,3,serve_plus_one,Forehand,Slice,34.138268,66,8,1,deep,deuce,far,-2.845082,21.558624,deep,deuce,near,2.567197,1.486066,0.558112,cross court,In,false,19:22:18,2461.659912
+Opponent,4,return_plus_one,Forehand,Topspin,47.526234,66,8,1,short,ad,near,-2.297945,7.644532,out,deuce,far,-3.212092,25.915258,0.958017,down the line,In,false,19:22:20,2464.060059
+Pash S,5,in_play,BH Volley,Flat,20.784662,66,8,1,out,ad,far,1.907212,24.403879,short,ad,near,-2.297945,7.119285,1.942496,cross court,Out,false,19:22:21,2464.969971
+Opponent,6,in_play,Backhand,Topspin,27.12891,66,8,1,short,ad,near,-0.047707,9.450033,deep,ad,far,2.495005,21.455708,1.29117,cross court,In,false,19:22:24,2467.570068
+Pash S,7,in_play,FH Volley,Flat,24.248772,66,8,1,short,deuce,far,-1.040364,15.950357,short,ad,near,-0.047707,8.924787,1.631699,down the line,In,false,19:22:25,2468.77002
+Opponent,8,in_play,Forehand,Flat,35.654472,66,8,1,short,deuce,near,0.14763,6.349543,deep,deuce,far,-1.169832,19.644665,1.040314,cross court,In,false,19:22:27,2470.699951
+Pash S,1,first_serve,Serve,Flat,112.58358,67,8,1,short,ad,far,1.971985,16.911762,out,ad,near,-2.606596,-0.595046,2.284941,down the T,In,false,19:22:52,2496.090088
+Opponent,2,first_return,Backhand,Slice,34.762669,67,8,1,out,deuce,near,0.392467,-0.930683,deep,ad,far,3.303068,24.071611,1.109662,down the line,Out,false,19:22:53,2496.889893
+Pash S,2,none,Feed,Flat,25.114799,67,8,1,deep,deuce,far,-0.203495,19.365614,out,deuce,near,2.048636,-1.865074,0.96228,---,In,false,19:22:57,2500.800049
+Pash S,3,serve_plus_one,Forehand,Topspin,26.011288,67,8,1,short,deuce,far,-1.10279,16.0744,deep,deuce,near,1.528808,4.788906,1.552196,cross court,In,false,19:22:59,2503
+Opponent,1,first_serve,Serve,Flat,73.774704,68,9,1,short,deuce,near,0.03194,6.726013,deep,deuce,far,-0.994587,23.009954,2.619988,down the T,In,false,19:23:16,2519.97998
+Pash S,2,first_return,Backhand,Slice,37.376713,68,9,1,deep,ad,far,3.333571,22.970568,deep,deuce,near,0.351552,0.704417,1.215893,inside in,In,false,19:23:17,2521.01001
+Opponent,3,serve_plus_one,Backhand,Topspin,26.021269,68,9,1,short,deuce,far,-2.600044,13.852859,out,ad,far,2.902399,25.223001,0.925238,down the line,Net,false,19:23:19,2522.97998
+Pash S,0,none,Feed,Flat,21.650688,69,9,1,short,ad,far,0.444455,16.152319,deep,ad,near,-2.13047,1.833662,0.671244,---,In,false,19:23:28,2531.959961
+Opponent,1,first_serve,Serve,Flat,60.543411,69,9,1,deep,ad,near,-1.729851,5.287347,deep,ad,far,1.409182,23.35277,2.655301,down the T,Out,false,19:23:38,2541.75
+Pash S,2,none,Forehand,Flat,48.509861,69,9,1,short,ad,far,1.602901,17.944008,out,ad,near,-2.128595,-1.103258,0.987919,inside out,In,false,19:23:39,2542.870117
+Opponent,3,none,Backhand,Topspin,55.171509,69,9,1,deep,ad,near,-3.945857,0.814632,deep,ad,far,2.819626,24.771069,0.94537,cross court,In,false,19:23:41,2544.399902
+Pash S,4,none,Backhand,Topspin,29.62521,69,9,1,short,deuce_alley,near,4.706877,10.101679,out,ad_alley,near,-4.271759,-1.869597,0.818259,down the line,Net,false,19:23:42,2545.639893
+Opponent,1,first_serve,Serve,Flat,42.425175,69,9,1,short,ad,near,-2.399426,8.450989,deep,ad,far,1.229454,23.334646,2.54301,out wide,In,false,19:23:49,2552.929932
+Pash S,2,first_return,Forehand,Topspin,60.394989,69,9,1,short,deuce,far,-0.318211,18.111946,out,ad,near,-2.823777,-0.576736,0.821092,inside in,In,false,19:23:51,2554.629883
+Opponent,3,serve_plus_one,Forehand,Topspin,54.594322,69,9,1,short,deuce,near,1.490507,7.12443,out,ad,far,0.914344,25.501137,0.524515,inside in,In,false,19:23:52,2556.01001
+Pash S,4,return_plus_one,Forehand,Flat,37.915775,69,9,1,deep,ad,far,2.130212,22.468536,deep,deuce,near,1.134272,1.713387,2.144469,down the line,In,false,19:23:54,2557.47998
+Opponent,5,in_play,Backhand,Topspin,53.417892,69,9,1,deep,ad_alley,near,-4.259056,0.491651,out,ad,far,2.719588,25.140615,1.32962,down the line,Out,false,19:23:55,2559.25
+Pash S,0,none,Feed,Topspin,20.402678,70,9,1,deep,deuce,far,-1.261028,18.70171,short,ad,near,-3.749531,10.044908,1.744772,---,In,false,19:24:11,2575.060059
+Opponent,1,first_serve,Serve,Slice,45.175224,70,9,1,short,deuce,near,1.939311,6.154067,deep,deuce,far,-0.468895,23.875448,2.203894,down the T,In,false,19:24:29,2592.879883
+Pash S,2,first_return,Forehand,Topspin,51.274429,70,9,1,deep,deuce,far,-0.228913,20.876694,deep,deuce,near,3.201934,-0.088758,0.783907,cross court,In,false,19:24:31,2594.449951
+Opponent,3,serve_plus_one,Forehand,Topspin,31.555138,70,9,1,short,ad,near,-0.638811,6.70364,deep,ad,far,0.141333,24.46829,1.056147,inside out,In,false,19:24:32,2595.810059
+Pash S,4,return_plus_one,Forehand,Topspin,47.541801,70,9,1,deep,deuce_alley,far,-4.821175,21.220024,deep,ad,near,-0.288234,1.395426,1.259453,inside in,Out,false,19:24:34,2598.050049
+Opponent,1,first_serve,Serve,Flat,25.295757,71,9,1,short,ad,near,-4.002264,9.57671,deep,ad,far,0.839756,23.347187,2.500503,out wide,In,false,19:24:47,2610.48999
+Pash S,1,none,Backhand,Topspin,32.026733,71,9,1,out,ad_alley,near,-4.778572,-0.364464,deep,ad_alley,near,-4.745629,-0.414012,0.699136,cross court,Net,false,19:24:49,2612.800049
+Opponent,1,first_serve,Serve,Flat,62.469063,71,9,1,short,deuce,far,-1.713536,18.193853,deep,ad,far,1.178654,24.142595,2.482294,out wide,Net,false,19:24:54,2618.050049
+Opponent,1,first_serve,Serve,Flat,44.191845,71,9,1,deep,ad,near,-2.734632,5.237978,deep,ad,far,1.250867,24.188555,2.353825,out wide,Out,false,19:25:02,2625.409912
+Pash S,2,first_return,Forehand,Topspin,41.356834,71,9,1,short,ad,far,2.550275,18.111946,out,ad,near,-3.363613,-1.10549,1.085017,inside out,In,false,19:25:03,2626.909912
+Pash S,5,none,Feed,Flat,23.382744,71,9,1,short,deuce,far,-1.159467,16.983852,deep,center_line,near,-0.002923,2.465882,1.43362,---,In,false,19:25:07,2630.51001
+Opponent,1,first_serve,Serve,Flat,31.734617,72,9,1,short,deuce,near,1.30711,6.42037,deep,deuce,far,-0.987506,23.439278,2.323447,down the T,In,false,19:25:31,2654.530029
+Pash S,2,first_return,Backhand,Slice,36.645287,72,9,1,short,ad,near,-3.864467,7.743452,deep,deuce,near,1.125561,0.403236,1.138788,inside in,Net,false,19:25:32,2656.22998
+Opponent,1,first_serve,Serve,Flat,63.290894,73,9,1,short,deuce,far,-0.890927,16.580736,deep,ad,far,1.123653,24.826349,2.304487,down the T,Net,false,19:25:42,2666.080078
+Opponent,1,first_serve,Serve,Flat,51.055965,73,9,1,deep,ad,near,-1.480259,5.483497,deep,ad,far,1.774146,24.758799,2.48814,down the T,Out,false,19:26:02,2685.26001
+Pash S,1,first_serve,Serve,Flat,61.244308,74,10,2,short,ad,far,1.503167,17.987478,deep,deuce,far,-1.375278,24.183794,2.61667,out wide,Net,false,19:27:37,2780.47998
+Pash S,1,first_serve,Serve,Flat,49.010971,74,10,2,deep,deuce,near,2.76334,2.999248,deep,deuce,far,-1.509974,24.865885,2.541052,out wide,Out,false,19:27:42,2786.149902
+Opponent,2,first_return,Forehand,Slice,32.050674,74,10,2,deep,ad,far,2.582412,20.210785,deep,deuce,near,3.585055,0.127775,0.929189,down the line,In,false,19:27:44,2787.580078
+Pash S,1,first_serve,Serve,Flat,64.995735,75,10,2,short,ad,near,-3.033924,6.267049,deep,ad,far,1.610026,23.920488,2.471987,out wide,In,false,19:28:00,2803.969971
+Opponent,2,first_return,Backhand,Flat,35.686886,75,10,2,deep,deuce,far,-0.478625,23.60359,out,ad,near,-3.275326,-0.649089,0.104811,down the line,In,false,19:28:01,2805
+Pash S,1,first_serve,Serve,Flat,65.434799,76,10,2,deep,deuce,near,2.310581,2.76703,deep,deuce,far,-1.553496,24.680111,2.612286,down the T,Out,false,19:28:11,2815.139893
+Pash S,1,first_serve,Serve,Flat,51.208157,76,10,2,deep,deuce,far,-0.227428,19.527075,deep,deuce,far,-0.735962,22.818127,2.57528,down the T,Net,false,19:28:20,2823.52002
+Pash S,1,first_serve,Serve,Flat,52.112171,76,10,2,deep,deuce,near,2.918453,5.438241,deep,deuce,far,-1.856611,24.829321,2.657747,out wide,Out,false,19:28:24,2827.389893
+Opponent,2,first_return,Forehand,Flat,38.130409,76,10,2,short,deuce,far,-0.598012,16.577993,out,deuce_alley,near,4.696717,-0.767835,1.112415,down the line,In,false,19:28:25,2828.850098
+Opponent,0,none,Feed,Flat,17.320551,77,10,2,short,ad,far,0.218316,18.115446,deep,ad,near,-2.141667,-0.41586,0.868863,---,In,false,19:28:31,2834.790039
+Pash S,1,first_serve,Serve,Flat,66.759506,77,10,2,short,ad,near,-3.745334,7.957571,out,ad,far,0.975965,25.122643,2.626295,out wide,In,false,19:28:41,2844.800049
+Opponent,2,first_return,Backhand,Slice,39.865761,77,10,2,deep,ad,far,3.440486,19.112846,out,ad_alley,near,-4.56249,-1.026651,0.948069,down the line,In,false,19:28:42,2845.899902
+Pash S,3,serve_plus_one,Backhand,Topspin,41.70676,77,10,2,short,deuce,near,0.0898,9.996202,deep,ad,far,3.691608,24.093105,0.780388,down the line,In,false,19:28:44,2847.870117
+Opponent,4,none,Feed,Topspin,17.320551,77,10,2,deep,deuce,far,-0.398993,18.328672,deep,ad,near,-0.359136,0.887898,0.732124,---,In,false,19:28:48,2852.209961
+Pash S,1,first_serve,Serve,Flat,69.361,78,10,2,short,deuce,near,0.694876,6.814463,deep,deuce,far,-1.183722,24.120953,2.649876,down the T,In,false,19:29:13,2876.659912
+Opponent,2,first_return,Backhand,Flat,34.484982,78,10,2,short,ad,far,2.058995,15.751686,deep,deuce,near,0.966076,0.049338,1.087698,inside in,In,false,19:29:14,2877.649902
+Pash S,3,serve_plus_one,Backhand,Slice,45.556824,78,10,2,short,deuce,near,0.646894,6.628082,deep,ad,far,2.168581,20.566984,0.950071,down the line,In,false,19:29:16,2879.530029
+Opponent,4,return_plus_one,Backhand,Slice,21.662292,78,10,2,short,ad,far,2.00716,11.961899,deep,deuce,near,0.146688,3.323976,0.30627,inside in,In,false,19:29:17,2880.72998
+Opponent,0,none,Feed,Flat,23.899399,79,10,2,short,deuce,far,-1.457591,18.111946,short,ad,near,-3.638213,7.54815,0.875106,---,In,false,19:29:28,2891.840088
+Pash S,1,first_serve,Serve,Slice,62.599941,79,10,2,deep,ad,near,-2.800185,5.464611,deep,ad,far,1.340235,24.496729,2.597701,out wide,Out,false,19:29:40,2903.719971
+Opponent,2,none,Backhand,Topspin,37.383793,79,10,2,deep,deuce,far,-1.99605,20.254408,out,ad,near,-3.688147,-2.099266,1.069017,down the line,In,false,19:29:41,2904.889893
+Pash S,3,none,Forehand,Topspin,53.583233,79,10,2,deep,deuce,near,3.681983,2.677299,out,deuce,far,-2.075816,26.235971,1.351869,cross court,In,false,19:29:43,2907.189941
+Pash S,1,first_serve,Serve,Flat,61.531757,79,10,2,short,ad,near,-2.567143,7.502564,short,ad,far,0.86678,23.500372,2.249221,out wide,In,false,19:29:52,2915.76001
+Opponent,2,first_return,Backhand,Flat,46.249962,79,10,2,deep,ad,far,1.879955,20.01828,out,ad_alley,near,-4.499004,-1.726223,0.776876,down the line,In,false,19:29:53,2917.100098
+Pash S,3,serve_plus_one,Backhand,Topspin,35.570541,79,10,2,deep,ad,near,-0.353404,5.325492,deep,ad,far,2.139731,24.356604,1.340988,cross court,In,false,19:29:55,2918.669922
+Opponent,4,return_plus_one,Forehand,Topspin,63.375008,79,10,2,deep,deuce,far,-3.754978,23.533266,out,ad,near,-0.770216,-1.017045,0.896879,inside in,In,false,19:29:57,2920.800049
+Pash S,5,in_play,Forehand,Topspin,33.744854,79,10,2,short,deuce,near,0.617491,8.851058,deep,deuce,far,-2.378247,23.317856,0.94368,cross court,In,false,19:29:59,2922.27002
+Opponent,6,in_play,Forehand,Topspin,44.921474,79,10,2,deep,deuce,far,-2.193956,21.973652,deep,deuce,near,1.645359,0.394629,0.633189,cross court,In,false,19:30:00,2924.139893
+Pash S,7,in_play,Forehand,Topspin,35.507313,79,10,2,short,ad,near,-0.763634,7.159626,out,deuce,far,-2.399167,25.925215,0.797,down the line,In,false,19:30:02,2925.469971
+Opponent,8,in_play,BH Volley,Flat,19.918634,79,10,2,short,deuce,near,0.113571,6.101173,short,ad,near,-0.763634,6.634379,0.737125,down the line,Net,false,19:30:03,2926.870117
+Opponent,0,none,Feed,Flat,14.76309,80,10,2,short,deuce,near,0.333554,5.488452,short,deuce,near,2.25053,11.561115,1.290966,---,Net,false,19:30:08,2931.97998
+Pash S,1,first_serve,Serve,Flat,88.901161,80,10,2,short,deuce,near,0.782379,7.442416,out,deuce,far,-1.373686,25.017237,2.62589,down the T,In,false,19:30:28,2952.060059
+Opponent,2,none,Backhand,Topspin,47.459793,80,10,2,short,deuce,near,1.591357,10.528854,deep,deuce,near,1.087278,-0.412897,0.937454,inside out,Net,false,19:30:29,2953.100098
+Opponent,3,none,Feed,Flat,21.650688,80,10,2,short,ad,far,0.112714,18.177811,out,ad,near,-2.54517,-0.655577,0.80078,---,In,false,19:30:34,2958
+Pash S,1,first_serve,Serve,Flat,56.502739,80,10,2,short,ad,near,-2.232256,9.295212,out,ad,far,1.678631,25.084936,2.5263,out wide,In,false,19:30:42,2966.01001
+Opponent,2,first_return,Backhand,Slice,33.929771,80,10,2,short,ad,far,0.801186,17.490841,out,ad_alley,near,-4.321613,-1.320385,0.442593,down the line,In,false,19:30:44,2967.439941
+Pash S,3,serve_plus_one,Forehand,Topspin,37.292213,80,10,2,deep,deuce,near,2.072963,4.862746,deep,ad,far,0.898662,19.756943,0.743389,inside in,In,false,19:30:46,2970.01001
+Opponent,4,return_plus_one,Forehand,Flat,48.692612,80,10,2,short,deuce,far,-1.411948,14.656663,deep,deuce,near,1.592854,-0.192953,0.616147,cross court,In,false,19:30:48,2971.610107
+Pash S,5,in_play,FH Volley,Flat,19.052607,80,10,2,deep,ad,near,-3.499267,4.348799,short,deuce,far,-1.411948,15.865451,1.278951,down the line,In,false,19:30:49,2972.409912
+Opponent,0,none,Feed,Flat,15.999957,82,11,2,short,deuce_alley,near,4.57147,5.916289,short,deuce,near,3.787532,8.748141,2.57907,---,Net,false,19:31:19,3002.540039
+Opponent,1,first_serve,Serve,Flat,64.72496,82,11,2,short,ad,far,0.7131,16.464096,deep,deuce,far,-0.997129,23.128046,2.565607,down the T,Net,false,19:31:40,3023.360107
+Opponent,1,first_serve,Serve,Flat,27.466076,82,11,2,short,deuce,near,1.423944,6.602565,deep,deuce,far,-1.379558,22.512426,2.449452,down the T,In,false,19:31:45,3028.76001
+Pash S,2,first_return,Forehand,Topspin,52.286423,82,11,2,short,ad,far,2.133049,15.426868,deep,deuce,near,2.319691,-0.401762,0.815667,down the line,In,false,19:31:47,3031.199951
+Opponent,3,serve_plus_one,Backhand,Slice,32.804008,82,11,2,short,ad,near,-0.645256,7.221932,deep,ad,far,0.631898,23.640396,0.59403,cross court,In,false,19:31:49,3032.72998
+Pash S,4,return_plus_one,Forehand,Flat,29.224541,82,11,2,short,ad,far,0.167857,18.209589,short,ad,near,-0.155275,5.293554,0.542014,inside out,In,false,19:31:51,3034.840088
+Pash S,5,in_play,BH Volley,Flat,24.248772,82,11,2,short,deuce,far,-1.636247,17.654593,short,ad,near,-1.702201,11.795612,0.910354,down the line,In,false,19:31:53,3036.870117
+Pash S,6,in_play,Backhand,Topspin,17.960073,82,11,2,short,deuce,far,-2.739615,15.500267,short,ad,near,-1.696433,9.840328,0.489297,down the line,In,false,19:31:54,3037.77002
+Opponent,7,in_play,Forehand,Topspin,50.140503,82,11,2,short,deuce,far,-1.383411,18.113962,deep,deuce,far,-1.120744,20.577175,2.955563,cross court,Net,false,19:31:55,3038.969971
+Opponent,1,first_serve,Serve,Flat,51.702511,83,11,2,short,ad,near,-1.34722,8.826297,deep,ad,far,0.878981,23.130939,2.681669,down the T,In,false,19:32:09,3052.850098
+Pash S,1,none,Forehand,Flat,34.765095,83,11,2,short,deuce,near,0.703151,5.527153,out,ad,near,-1.852754,-0.84661,0.722214,inside in,Net,false,19:32:11,3054.389893
+Opponent,1,first_serve,Serve,Flat,47.438774,83,11,2,deep,ad_alley,near,-4.943074,5.421392,deep,ad,far,0.964723,24.010153,2.455054,out wide,Out,false,19:32:21,3064.459961
+Pash S,3,none,Backhand,Slice,41.450466,83,11,2,deep,deuce,far,-3.306847,21.600086,out,ad_alley,near,-4.992801,-1.453776,1.080662,down the line,In,false,19:32:22,3065.899902
+Opponent,1,first_serve,Serve,Flat,46.060284,83,11,2,short,ad,near,-3.080996,8.498354,out,ad,far,0.707105,23.67791,2.54105,out wide,In,false,19:33:01,3105.060059
+Pash S,2,first_return,Backhand,Slice,36.540325,83,11,2,short,deuce,far,-2.683517,18.173578,deep,ad_alley,near,-4.7819,-0.002544,0.969011,down the line,In,false,19:33:03,3106.629883
+Opponent,3,serve_plus_one,Forehand,Topspin,44.371979,83,11,2,deep,deuce,near,0.39934,5.1456,deep,deuce,far,-1.984451,22.350033,0.664388,cross court,In,false,19:33:05,3109.129883
+Pash S,4,return_plus_one,Forehand,Flat,36.78212,83,11,2,deep,deuce,far,-1.467003,21.895523,deep,deuce,near,2.058998,0.499336,0.456506,cross court,In,false,19:33:07,3110.969971
+Opponent,1,first_serve,Serve,Flat,72.394691,84,11,2,short,deuce,near,2.363022,8.356369,deep,deuce,far,-0.920145,23.517931,2.677424,out wide,In,false,19:33:36,3139.379883
+Pash S,1,none,Forehand,Flat,42.484451,84,11,2,deep,deuce,far,-1.800756,18.382603,deep,deuce_alley,near,4.367239,0.348186,0.813996,down the line,In,false,19:33:37,3140.800049
+Opponent,1,first_serve,Serve,Flat,43.657051,84,11,2,short,deuce,near,2.034263,8.062294,deep,deuce,far,-0.931235,23.19705,2.580386,down the T,In,false,19:33:46,3149.27002
+Pash S,2,first_return,Forehand,Topspin,59.640713,84,11,2,deep,ad,far,3.544019,22.154037,deep,deuce,near,2.92043,-0.274253,1.065137,down the line,In,false,19:33:47,3150.669922
+Opponent,1,first_serve,Serve,Flat,78.538277,85,11,2,short,ad,near,-2.318794,5.81686,out,ad,far,1.100175,25.259014,2.603216,down the T,In,false,19:33:59,3162.550049
+Pash S,2,first_return,Forehand,Topspin,40.533218,85,11,2,short,center_line,far,0.025111,13.675718,out,ad,near,-3.444266,-0.866636,0.993055,inside in,In,false,19:34:00,3163.580078
+Opponent,0,none,Feed,Flat,14.913945,86,12,2,short,ad,far,2.976044,14.221453,short,ad,far,3.886737,14.633588,1.868754,---,Net,false,19:34:16,3179.800049
+Pash S,1,first_serve,Serve,Slice,66.089081,86,12,2,short,deuce,far,-3.128941,17.58744,deep,deuce,near,0.896271,0.749408,2.872459,out wide,In,false,19:34:46,3209.790039
+Opponent,0,none,Feed,Topspin,19.918634,87,12,2,deep,ad,near,-3.175191,5.413097,out,deuce,far,-3.3793,25.641111,1.069176,---,In,false,19:34:52,3215.72998
+Pash S,1,first_serve,Serve,Flat,67.245697,87,12,2,short,deuce,near,2.196611,10.894323,out,ad,near,-3.071689,-0.774697,2.159812,out wide,Net,false,19:35:03,3226.27002
+Pash S,1,first_serve,Serve,Flat,46.97509,87,12,2,short,ad,far,1.620232,16.212299,deep,ad,near,-2.40824,1.125652,2.595354,down the T,In,false,19:35:09,3232.840088
+Opponent,2,first_return,Forehand,Topspin,49.32679,87,12,2,short,ad,near,-0.272022,6.445388,deep,ad,far,1.940295,24.949867,0.631287,inside out,In,false,19:35:11,3234.449951
+Pash S,3,serve_plus_one,Backhand,Topspin,19.940184,87,12,2,short,ad,near,-0.926515,11.072052,short,ad,near,-0.272022,5.920141,0.188428,cross court,Net,false,19:35:11,3235.25
+Pash S,1,first_serve,Serve,Slice,79.459663,88,12,2,short,deuce,far,-1.718096,16.563171,deep,deuce,near,0.883948,0.494053,2.450537,down the T,In,false,19:35:29,3252.560059
+Opponent,2,first_return,Forehand,Slice,32.825764,88,12,2,deep,deuce,near,0.011507,1.550234,deep,deuce,far,-3.032067,23.627634,1.021484,cross court,In,false,19:35:30,3253.659912
+Pash S,3,serve_plus_one,Forehand,Flat,37.975246,88,12,2,short,deuce,far,-1.052587,16.618982,out,ad,near,-0.21081,-1.911277,1.274904,inside in,In,false,19:35:33,3257.219971
+Opponent,4,return_plus_one,Forehand,Flat,44.073074,88,12,2,deep,ad,near,-2.476156,1.46467,deep,deuce,far,-1.336978,24.77096,0.598612,down the line,In,false,19:35:36,3259.350098
+Pash S,5,in_play,Backhand,Topspin,31.150671,88,12,2,short,ad,far,2.726896,16.485035,out,ad,near,-2.673885,-2.31864,1.141679,cross court,In,false,19:35:37,3260.969971
+Opponent,6,in_play,Backhand,Slice,29.532509,88,12,2,short,ad,near,-3.078313,7.235085,deep,ad,far,3.146008,19.957829,0.82821,cross court,In,false,19:35:40,3264.159912
+Pash S,7,in_play,Backhand,Topspin,38.58453,88,12,2,short,ad,far,1.7731,16.98674,deep,ad,near,-4.043003,0.904492,0.755499,cross court,In,false,19:35:42,3265.969971
