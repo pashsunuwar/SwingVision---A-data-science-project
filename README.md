@@ -2,10 +2,10 @@
 
 Welcome to my tennis match analysis project!
 
-## Lets see who had the fastest serve in that game?
+## Let's see who had the fastest serve in that game.
 
-Here is a sneak peak of what I am working on:
+Here is a sneak peek of what I am working on:
 
 ![Example Image](fastest_serve.png)
 
-This image shows who the fastest serve in the game ST vs PS.
+This image shows the fastest serve in the game: ST vs PS.
