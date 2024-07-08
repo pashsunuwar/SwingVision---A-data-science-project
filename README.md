@@ -1,6 +1,7 @@
 # SwingVision---A-data-science-project
 
 #Welcome to my tennis match analysis project!
+![](SVscreenshot.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
