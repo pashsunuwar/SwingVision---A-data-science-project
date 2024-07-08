@@ -1,6 +1,6 @@
 # SwingVision---A-data-science-project
 
-# Welcome to my tennis match analysis project!
+## Welcome to my tennis match analysis project!
 
 ![](SVscreenshot.png)
 
@@ -12,11 +12,11 @@
 5. [Contributing](#contributing)
 6. [License](#license)
 
-## What is Swing Vision?
+### What is Swing Vision?
 
 SwingVision is an AI-powered app for tennis players that provides detailed performance analysis.
 
-## Let's see who had the fastest serve in that game.
+### Let's see who had the fastest serve in that game.
 
 Here is a sneak peek of what I am working on:
 
