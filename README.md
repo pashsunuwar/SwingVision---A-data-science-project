@@ -24,4 +24,4 @@ Here is a sneak peek of what I am working on:
 
 This image shows the fastest serve in the game: ST vs PS.
 
-Link to the [saving vision match](https://swing.vision/matches/2b1cd6b2-7b15-41e4-893e-07050787d89b) 
+Link to the [Swing Vision match](https://swing.vision/matches/2b1cd6b2-7b15-41e4-893e-07050787d89b) 
