@@ -12,7 +12,9 @@
 5. [Contributing](#contributing)
 6. [License](#license)
 
-### What is Swing Vision?
+### Introduction
+
+##What is Swing Vision?
 
 SwingVision is an AI-powered app for tennis players that provides detailed performance analysis.
 
