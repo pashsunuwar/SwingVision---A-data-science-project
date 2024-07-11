@@ -14,7 +14,7 @@
 
 ### Introduction
 
-##What is Swing Vision?
+## What is Swing Vision?
 
 SwingVision is an AI-powered app for tennis players that provides detailed performance analysis.
 
